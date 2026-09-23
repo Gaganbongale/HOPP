@@ -1,0 +1,44 @@
+[
+  {
+    "code": "NWKRTC",
+    "name": "North Western Karnataka Road Transport Corporation",
+    "operatorType": "GOVERNMENT",
+    "modes": [
+      "CITY_BUS",
+      "FEEDER_BUS"
+    ],
+    "website": "https://nwkrtc.karnataka.gov.in",
+    "contactNumbers": [
+      "7760991675",
+      "9606030542",
+      "7760991555"
+    ]
+  },
+  {
+    "code": "HDBRTS",
+    "name": "Hubballi-Dharwad BRTS Company Limited",
+    "operatorType": "PUBLIC_COMPANY",
+    "modes": [
+      "BRTS",
+      "FEEDER_BUS"
+    ],
+    "website": "https://www.hdbrts.com"
+  },
+  {
+    "code": "SWR",
+    "name": "South Western Railway",
+    "operatorType": "RAILWAY",
+    "modes": [
+      "TRAIN"
+    ]
+  },
+  {
+    "code": "LOCAL_AUTO",
+    "name": "Hubballi-Dharwad Local Auto Operators",
+    "operatorType": "COMMUNITY",
+    "modes": [
+      "SHARED_AUTO",
+      "AUTO_RICKSHAW"
+    ]
+  }
+]

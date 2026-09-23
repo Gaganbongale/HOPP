@@ -1,0 +1,424 @@
+[
+  {
+    "routeName": "Chigari Samparka FS-001",
+    "source": "Navanagar",
+    "destination": "Dharwad New Bus Stand",
+    "stops": [
+      "Navanagar",
+      "Unkal Lake BRTS",
+      "Court Circle BRTS",
+      "Jubilee Circle BRTS",
+      "Dharwad New Bus Stand"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 25,
+    "durationMinutes": 45,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "routeName": "Chigari Samparka FS-002",
+    "source": "Navanagar",
+    "destination": "Jubilee Circle BRTS",
+    "stops": [
+      "Navanagar",
+      "Unkal Lake BRTS",
+      "Court Circle BRTS",
+      "Jubilee Circle BRTS"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 24,
+    "durationMinutes": 40,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "routeName": "Chigari Samparka FS-003",
+    "source": "Navanagar",
+    "destination": "Gandhinagar Dharwad",
+    "stops": [
+      "Navanagar",
+      "Unkal Lake BRTS",
+      "Court Circle BRTS",
+      "SDM Medical College",
+      "Gandhinagar Dharwad"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 20,
+    "durationMinutes": 35,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "routeName": "Chigari Samparka FS-004",
+    "source": "Navanagar",
+    "destination": "SDM Hospital",
+    "stops": [
+      "Navanagar",
+      "Unkal Lake BRTS",
+      "Court Circle BRTS",
+      "SDM Hospital"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 17,
+    "durationMinutes": 30,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "routeName": "Chigari Samparka FS-005",
+    "source": "Navanagar",
+    "destination": "CBT Hubballi",
+    "stops": [
+      "Navanagar",
+      "Unkal Lake BRTS",
+      "KIMS",
+      "Vidyanagar",
+      "CBT Hubballi"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 22,
+    "durationMinutes": 30,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "routeName": "Chigari Samparka FS-006",
+    "source": "Navanagar",
+    "destination": "Hubli Old BS/HDMC",
+    "stops": [
+      "Navanagar",
+      "Unkal Lake BRTS",
+      "KIMS",
+      "Hubli Old BS/HDMC"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 20,
+    "durationMinutes": 25,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "routeName": "Chigari Samparka FS-007",
+    "source": "Navanagar",
+    "destination": "KLE Technological University",
+    "stops": [
+      "Navanagar",
+      "Unkal Lake BRTS",
+      "KIMS",
+      "KLE Technological University"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 18,
+    "durationMinutes": 20,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "routeName": "Chigari Samparka FS-008",
+    "source": "Shakti Colony",
+    "destination": "Unkal Lake BRTS",
+    "stops": [
+      "Shakti Colony",
+      "KLE Tech",
+      "Vidyanagar",
+      "Unkal Lake BRTS"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 16,
+    "durationMinutes": 20,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "routeName": "Chigari Samparka FS-009",
+    "source": "Shakti Colony",
+    "destination": "CBT Hubballi",
+    "stops": [
+      "Shakti Colony",
+      "KLE Tech",
+      "Vidyanagar",
+      "KIMS",
+      "CBT Hubballi"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 14,
+    "durationMinutes": 25,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "routeName": "Chigari Samparka FS-010",
+    "source": "Devangpeth",
+    "destination": "CBT Hubballi",
+    "stops": [
+      "Devangpeth",
+      "Vijay Nagar",
+      "HDMC",
+      "CBT Hubballi"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 13,
+    "durationMinutes": 20,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "routeName": "Chigari Samparka FS-011",
+    "source": "Devangpeth",
+    "destination": "KIMS Hospital",
+    "stops": [
+      "Devangpeth",
+      "Vijay Nagar",
+      "KIMS Hospital"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 12,
+    "durationMinutes": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "routeName": "Chigari Samparka FS-012",
+    "source": "Gopankoppa",
+    "destination": "Unkal Lake BRTS",
+    "stops": [
+      "Gopankoppa",
+      "Kengeri",
+      "Keshawapur",
+      "Navanagar",
+      "Unkal Lake BRTS"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 15,
+    "durationMinutes": 20,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "routeName": "Chigari Samparka FS-013",
+    "source": "Gopankoppa",
+    "destination": "CBT Hubballi",
+    "stops": [
+      "Gopankoppa",
+      "Keshawapur",
+      "Navanagar",
+      "Unkal",
+      "CBT Hubballi"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 14,
+    "durationMinutes": 25,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "routeName": "Chigari Samparka FS-014",
+    "source": "Kengeri",
+    "destination": "CBT Hubballi",
+    "stops": [
+      "Kengeri",
+      "KLE Tech",
+      "Vidyanagar",
+      "CBT Hubballi"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 13,
+    "durationMinutes": 20,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "routeName": "Chigari Samparka FS-015",
+    "source": "Keshawapur",
+    "destination": "Unkal Lake BRTS",
+    "stops": [
+      "Keshawapur",
+      "Navanagar",
+      "Unkal Lake BRTS"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 14,
+    "durationMinutes": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "routeName": "City Bus Route 13",
+    "source": "Hubli Railway Station",
+    "destination": "Dharwad Hosayellapur",
+    "stops": [
+      "Hubli Railway Station",
+      "Vidyanagar",
+      "KLE Tech",
+      "Unkal Lake BRTS",
+      "Court Circle BRTS",
+      "Dharwad Hosayellapur"
+    ],
+    "transportType": "BUS",
+    "fare": 20,
+    "durationMinutes": 40,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "routeName": "City Bus Route 21",
+    "source": "CBT Hubballi",
+    "destination": "Vidyanagar",
+    "stops": [
+      "CBT Hubballi",
+      "Station Road",
+      "Gokul Road",
+      "KIMS",
+      "Vidyanagar"
+    ],
+    "transportType": "BUS",
+    "fare": 15,
+    "durationMinutes": 25,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "routeName": "City Bus Route 35",
+    "source": "Gokul Road",
+    "destination": "Navanagar",
+    "stops": [
+      "Gokul Road",
+      "Unkal",
+      "Navanagar"
+    ],
+    "transportType": "BUS",
+    "fare": 12,
+    "durationMinutes": 20,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "routeName": "City Bus Route 45",
+    "source": "Hubli Railway Station",
+    "destination": "KLE Technological University",
+    "stops": [
+      "Hubli Railway Station",
+      "Station Road",
+      "Vidyanagar",
+      "BVB",
+      "KLE Technological University"
+    ],
+    "transportType": "BUS",
+    "fare": 12,
+    "durationMinutes": 20,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "routeName": "City Bus Route 52",
+    "source": "Dharwad New Bus Stand",
+    "destination": "SDM Medical College",
+    "stops": [
+      "Dharwad New Bus Stand",
+      "Jubilee Circle",
+      "Court Circle",
+      "PB Road",
+      "SDM Medical College"
+    ],
+    "transportType": "BUS",
+    "fare": 10,
+    "durationMinutes": 15,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "routeName": "Airport City Bus",
+    "source": "Hubballi Airport",
+    "destination": "Hubli Railway Station",
+    "stops": [
+      "Hubballi Airport",
+      "CBT",
+      "Hosur Road",
+      "Hosur Cross",
+      "Kitturu Rani Channamma Circle",
+      "Lamington School Road",
+      "Hubli Railway Station"
+    ],
+    "transportType": "BUS",
+    "fare": 15,
+    "durationMinutes": 30,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "routeName": "University Route UR-01",
+    "source": "Navanagar",
+    "destination": "KLE Tech",
+    "stops": [
+      "Navanagar",
+      "Unkal",
+      "KIMS",
+      "KLE Tech"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 10,
+    "durationMinutes": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "routeName": "Hospital Route HR-01",
+    "source": "CBT Hubballi",
+    "destination": "KIMS Hospital",
+    "stops": [
+      "CBT Hubballi",
+      "Vidyanagar",
+      "KIMS Hospital"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 8,
+    "durationMinutes": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "routeName": "Hospital Route HR-02",
+    "source": "Jubilee Circle",
+    "destination": "SDM Medical College",
+    "stops": [
+      "Jubilee Circle",
+      "Court Circle",
+      "SDM Medical College"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 8,
+    "durationMinutes": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "routeName": "Residential Route RR-01",
+    "source": "Shakti Colony",
+    "destination": "Vidyanagar",
+    "stops": [
+      "Shakti Colony",
+      "KLE Tech",
+      "Vidyanagar"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 8,
+    "durationMinutes": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "routeName": "Residential Route RR-02",
+    "source": "Devangpeth",
+    "destination": "Vijay Nagar",
+    "stops": [
+      "Devangpeth",
+      "Vijay Nagar"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 5,
+    "durationMinutes": 5,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "routeName": "Residential Route RR-03",
+    "source": "Gopankoppa",
+    "destination": "Kengeri",
+    "stops": [
+      "Gopankoppa",
+      "Kengeri"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 5,
+    "durationMinutes": 5,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "routeName": "Residential Route RR-04",
+    "source": "Kengeri",
+    "destination": "Keshawapur",
+    "stops": [
+      "Kengeri",
+      "Keshawapur"
+    ],
+    "transportType": "FEEDER_BUS",
+    "fare": 5,
+    "durationMinutes": 5,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  }
+]

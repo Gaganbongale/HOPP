@@ -1,0 +1,514 @@
+[
+  {
+    "source": "Hubballi Railway Station",
+    "destination": "CBT Hubballi",
+    "transportType": "SHARED_AUTO",
+    "fare": 15,
+    "durationMinutes": 20,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "source": "CBT Hubballi",
+    "destination": "Hubballi Railway Station",
+    "transportType": "SHARED_AUTO",
+    "fare": 15,
+    "durationMinutes": 20,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "source": "CBT Hubballi",
+    "destination": "Vidyanagar",
+    "transportType": "SHARED_AUTO",
+    "fare": 15,
+    "durationMinutes": 15,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "source": "Vidyanagar",
+    "destination": "CBT Hubballi",
+    "transportType": "SHARED_AUTO",
+    "fare": 15,
+    "durationMinutes": 15,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "source": "Vidyanagar",
+    "destination": "KLE Technological University",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 5,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "source": "KLE Technological University",
+    "destination": "Vidyanagar",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 5,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "source": "CBT Hubballi",
+    "destination": "KLE Technological University",
+    "transportType": "SHARED_AUTO",
+    "fare": 15,
+    "durationMinutes": 18,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "KLE Technological University",
+    "destination": "CBT Hubballi",
+    "transportType": "SHARED_AUTO",
+    "fare": 15,
+    "durationMinutes": 18,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Hubballi Railway Station",
+    "destination": "Vidyanagar",
+    "transportType": "SHARED_AUTO",
+    "fare": 15,
+    "durationMinutes": 18,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Vidyanagar",
+    "destination": "Hubballi Railway Station",
+    "transportType": "SHARED_AUTO",
+    "fare": 15,
+    "durationMinutes": 18,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Hubballi Railway Station",
+    "destination": "Unkal Lake",
+    "transportType": "SHARED_AUTO",
+    "fare": 15,
+    "durationMinutes": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Unkal Lake",
+    "destination": "Hubballi Railway Station",
+    "transportType": "SHARED_AUTO",
+    "fare": 15,
+    "durationMinutes": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Hubballi Railway Station",
+    "destination": "Hubballi Airport",
+    "transportType": "SHARED_AUTO",
+    "fare": 20,
+    "durationMinutes": 25,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Hubballi Airport",
+    "destination": "Hubballi Railway Station",
+    "transportType": "SHARED_AUTO",
+    "fare": 20,
+    "durationMinutes": 25,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "CBT Hubballi",
+    "destination": "Unkal Lake",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Unkal Lake",
+    "destination": "CBT Hubballi",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Unkal Lake",
+    "destination": "Hubballi Airport",
+    "transportType": "SHARED_AUTO",
+    "fare": 12,
+    "durationMinutes": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Hubballi Airport",
+    "destination": "Unkal Lake",
+    "transportType": "SHARED_AUTO",
+    "fare": 12,
+    "durationMinutes": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Vidyanagar",
+    "destination": "Hubballi Airport",
+    "transportType": "SHARED_AUTO",
+    "fare": 15,
+    "durationMinutes": 20,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Hubballi Airport",
+    "destination": "Vidyanagar",
+    "transportType": "SHARED_AUTO",
+    "fare": 15,
+    "durationMinutes": 20,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Navanagar",
+    "destination": "Unkal Lake",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Unkal Lake",
+    "destination": "Navanagar",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Navanagar",
+    "destination": "Hubballi Airport",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Hubballi Airport",
+    "destination": "Navanagar",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Gokul Road",
+    "destination": "Hubballi Railway Station",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Hubballi Railway Station",
+    "destination": "Gokul Road",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Gokul Road",
+    "destination": "Vidyanagar",
+    "transportType": "SHARED_AUTO",
+    "fare": 8,
+    "durationMinutes": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Vidyanagar",
+    "destination": "Gokul Road",
+    "transportType": "SHARED_AUTO",
+    "fare": 8,
+    "durationMinutes": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Gokul Road",
+    "destination": "KLE Technological University",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "KLE Technological University",
+    "destination": "Gokul Road",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Court Circle",
+    "destination": "Jubilee Circle",
+    "transportType": "SHARED_AUTO",
+    "fare": 5,
+    "durationMinutes": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Jubilee Circle",
+    "destination": "Court Circle",
+    "transportType": "SHARED_AUTO",
+    "fare": 5,
+    "durationMinutes": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Court Circle",
+    "destination": "Dharwad New Bus Stand",
+    "transportType": "SHARED_AUTO",
+    "fare": 8,
+    "durationMinutes": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Dharwad New Bus Stand",
+    "destination": "Court Circle",
+    "transportType": "SHARED_AUTO",
+    "fare": 8,
+    "durationMinutes": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Court Circle",
+    "destination": "SDM Medical College",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "SDM Medical College",
+    "destination": "Court Circle",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Jubilee Circle",
+    "destination": "Dharwad New Bus Stand",
+    "transportType": "SHARED_AUTO",
+    "fare": 5,
+    "durationMinutes": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Dharwad New Bus Stand",
+    "destination": "Jubilee Circle",
+    "transportType": "SHARED_AUTO",
+    "fare": 5,
+    "durationMinutes": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Jubilee Circle",
+    "destination": "SDM Medical College",
+    "transportType": "SHARED_AUTO",
+    "fare": 8,
+    "durationMinutes": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "SDM Medical College",
+    "destination": "Jubilee Circle",
+    "transportType": "SHARED_AUTO",
+    "fare": 8,
+    "durationMinutes": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Dharwad Railway Station",
+    "destination": "Dharwad New Bus Stand",
+    "transportType": "SHARED_AUTO",
+    "fare": 8,
+    "durationMinutes": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Dharwad New Bus Stand",
+    "destination": "Dharwad Railway Station",
+    "transportType": "SHARED_AUTO",
+    "fare": 8,
+    "durationMinutes": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Dharwad Railway Station",
+    "destination": "Court Circle",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Court Circle",
+    "destination": "Dharwad Railway Station",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Dharwad Railway Station",
+    "destination": "Jubilee Circle",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Jubilee Circle",
+    "destination": "Dharwad Railway Station",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Hubballi Airport",
+    "destination": "Dharwad New Bus Stand",
+    "transportType": "SHARED_AUTO",
+    "fare": 25,
+    "durationMinutes": 40,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Dharwad New Bus Stand",
+    "destination": "Hubballi Airport",
+    "transportType": "SHARED_AUTO",
+    "fare": 25,
+    "durationMinutes": 40,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Hubballi Airport",
+    "destination": "KLE Technological University",
+    "transportType": "SHARED_AUTO",
+    "fare": 15,
+    "durationMinutes": 20,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "KLE Technological University",
+    "destination": "Hubballi Airport",
+    "transportType": "SHARED_AUTO",
+    "fare": 15,
+    "durationMinutes": 20,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "U Mall",
+    "destination": "Vidyanagar",
+    "transportType": "SHARED_AUTO",
+    "fare": 8,
+    "durationMinutes": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Vidyanagar",
+    "destination": "U Mall",
+    "transportType": "SHARED_AUTO",
+    "fare": 8,
+    "durationMinutes": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "U Mall",
+    "destination": "Hubballi Railway Station",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Hubballi Railway Station",
+    "destination": "U Mall",
+    "transportType": "SHARED_AUTO",
+    "fare": 10,
+    "durationMinutes": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "KIMS Hospital",
+    "destination": "Vidyanagar",
+    "transportType": "SHARED_AUTO",
+    "fare": 5,
+    "durationMinutes": 5,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Vidyanagar",
+    "destination": "KIMS Hospital",
+    "transportType": "SHARED_AUTO",
+    "fare": 5,
+    "durationMinutes": 5,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "KIMS Hospital",
+    "destination": "KLE Technological University",
+    "transportType": "SHARED_AUTO",
+    "fare": 6,
+    "durationMinutes": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "KLE Technological University",
+    "destination": "KIMS Hospital",
+    "transportType": "SHARED_AUTO",
+    "fare": 6,
+    "durationMinutes": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Shakti Colony",
+    "destination": "KLE Tech",
+    "transportType": "SHARED_AUTO",
+    "fare": 8,
+    "durationMinutes": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "KLE Tech",
+    "destination": "Shakti Colony",
+    "transportType": "SHARED_AUTO",
+    "fare": 8,
+    "durationMinutes": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Devangpeth",
+    "destination": "Vijay Nagar",
+    "transportType": "SHARED_AUTO",
+    "fare": 5,
+    "durationMinutes": 5,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Vijay Nagar",
+    "destination": "Devangpeth",
+    "transportType": "SHARED_AUTO",
+    "fare": 5,
+    "durationMinutes": 5,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "source": "Gokul Road Bus Stand",
+    "destination": "Hosur Cross",
+    "transportType": "SHARED_AUTO",
+    "fare": 20,
+    "durationMinutes": 10,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "source": "Hosur Cross",
+    "destination": "Gokul Road Bus Stand",
+    "transportType": "SHARED_AUTO",
+    "fare": 20,
+    "durationMinutes": 10,
+    "verificationLevel": "LOCAL_VERIFIED"
+  }
+]

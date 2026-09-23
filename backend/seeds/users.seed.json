@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Admin Architect",
+    "email": "admin@planner.com",
+    "password": "AdminPassword@123",
+    "role": "admin"
+  },
+  {
+    "name": "Srujan",
+    "email": "example@gmail.com",
+    "password": "Password@123",
+    "role": "user"
+  }
+]

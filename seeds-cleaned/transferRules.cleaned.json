@@ -1,0 +1,80 @@
+[
+  {
+    "fromMode": "BUS",
+    "toMode": "BRTS",
+    "durationMinutes": 3,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "fromMode": "BRTS",
+    "toMode": "BUS",
+    "durationMinutes": 3,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "fromMode": "BRTS",
+    "toMode": "SHARED_AUTO",
+    "durationMinutes": 4,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "fromMode": "SHARED_AUTO",
+    "toMode": "BRTS",
+    "durationMinutes": 4,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "fromMode": "TRAIN",
+    "toMode": "BUS",
+    "durationMinutes": 5,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "fromMode": "BUS",
+    "toMode": "TRAIN",
+    "durationMinutes": 5,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "fromMode": "TRAIN",
+    "toMode": "BRTS",
+    "durationMinutes": 6,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "fromMode": "BRTS",
+    "toMode": "TRAIN",
+    "durationMinutes": 6,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "fromMode": "WALK",
+    "toMode": "BUS",
+    "durationMinutes": 2,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "fromMode": "WALK",
+    "toMode": "BRTS",
+    "durationMinutes": 2,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "fromMode": "WALK",
+    "toMode": "SHARED_AUTO",
+    "durationMinutes": 2,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "fromMode": "BUS",
+    "toMode": "SHARED_AUTO",
+    "durationMinutes": 3,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "fromMode": "SHARED_AUTO",
+    "toMode": "BUS",
+    "durationMinutes": 3,
+    "verificationLevel": "LOCAL_VERIFIED"
+  }
+]

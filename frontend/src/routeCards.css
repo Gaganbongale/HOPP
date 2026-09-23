@@ -1,0 +1,33 @@
+.route-card {
+  --route-glow: 94, 137, 76;
+  --route-edge: #a8c88f;
+  transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+}
+
+.route-card.fastest {
+  --route-glow: 222, 137, 61;
+  --route-edge: #d9a36f;
+}
+
+.route-card.cheapest {
+  --route-glow: 91, 139, 76;
+  --route-edge: #a8c88f;
+}
+
+.route-card.comfortable {
+  --route-glow: 151, 105, 69;
+  --route-edge: #bd9677;
+}
+
+.route-card:hover,
+.route-card:focus-within {
+  transform: translateY(-3px);
+  border-color: var(--route-edge);
+  box-shadow: 0 0 0 1px var(--route-edge), 0 12px 25px rgba(var(--route-glow), 0.18);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .route-card {
+    transition: none;
+  }
+}

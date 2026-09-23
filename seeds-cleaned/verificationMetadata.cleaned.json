@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-06-04",
+  "version": "1.0.0",
+  "collections": {
+    "brtsStations": {
+      "defaultVerificationLevel": "LOCAL_VERIFIED",
+      "description": "Verified 32 HDBRTS corridor stations."
+    },
+    "routes": {
+      "defaultVerificationLevel": "LOCAL_VERIFIED",
+      "description": "Verified BRTS routes."
+    },
+    "routeSegments": {
+      "defaultVerificationLevel": "LOCAL_VERIFIED",
+      "description": "Graph segments generated from verified BRTS, Feeder and Auto routes."
+    },
+    "landmarkStopMapping": {
+      "defaultVerificationLevel": "HIGH_CONFIDENCE",
+      "description": "Landmark to stop mappings based on official data."
+    },
+    "walkingConnections": {
+      "defaultVerificationLevel": "HIGH_CONFIDENCE",
+      "description": "Walking connections between stops and landmarks."
+    },
+    "autoRoutes": {
+      "defaultVerificationLevel": "COMMUNITY_ESTIMATED",
+      "description": "Local verified and community estimated shared auto routes."
+    },
+    "feederRoutes": {
+      "defaultVerificationLevel": "HIGH_CONFIDENCE",
+      "description": "NWKRTC feeder bus and Chigari Samparka routes."
+    }
+  }
+}

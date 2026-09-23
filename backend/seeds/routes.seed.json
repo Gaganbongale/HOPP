@@ -1,0 +1,1268 @@
+[
+  {
+    "routeNumber": "201B-D",
+    "name": "Dharwad New Bus Station to SSS Hubballi Junction Railway Station",
+    "operatorCode": "HDBRTS",
+    "mode": "BRTS",
+    "direction": "DOWN",
+    "stopCodes": [
+      "DHARWAD_NEW_BUS_STAND",
+      "JUBILEE_CIRCLE",
+      "COURT_CIRCLE",
+      "UNKAL_LAKE",
+      "CBT_HUBBALLI",
+      "HUBBALLI_RAILWAY_STATION"
+    ],
+    "estimatedTravelTimeMinutes": 45,
+    "estimatedFare": 25,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "05:30",
+      "end": "22:00"
+    },
+    "frequency": {
+      "regular": "Every 10-15 mins",
+      "peak": "Every 5-8 mins"
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": []
+  },
+  {
+    "routeNumber": "201B-U",
+    "name": "SSS Hubballi Junction Railway Station to Dharwad CBT",
+    "operatorCode": "HDBRTS",
+    "mode": "BRTS",
+    "direction": "UP",
+    "stopCodes": [
+      "HUBBALLI_RAILWAY_STATION",
+      "CBT_HUBBALLI",
+      "UNKAL",
+      "COURT_CIRCLE",
+      "JUBILEE_CIRCLE",
+      "DHARWAD_NEW_BUS_STAND"
+    ],
+    "estimatedTravelTimeMinutes": 50,
+    "estimatedFare": 28,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "05:30",
+      "end": "22:30"
+    },
+    "frequency": {
+      "regular": "Every 10-15 mins",
+      "peak": "Every 5-8 mins"
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": []
+  },
+  {
+    "routeNumber": "BRTS-1",
+    "name": "CBT Hubballi to Dharwad CBT",
+    "operatorCode": "HDBRTS",
+    "mode": "BRTS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "CBT_HUBBALLI",
+      "AMBEDKAR_CIRCLE",
+      "HDMC",
+      "HOSUR_CROSS",
+      "HOSUR_REGIONAL_TERMINAL",
+      "KIMS_HOSPITAL",
+      "VIDYANAGAR",
+      "BVB_CAMPUS",
+      "UNKAL_CROSS",
+      "UNKAL_VILLAGE",
+      "UNKAL_LAKE",
+      "BIRIDEVARAKOPPA",
+      "SHANTINIKETHAN",
+      "APMC_3RD_GATE",
+      "NAVANAGAR",
+      "RTO",
+      "ISKCON_TEMPLE",
+      "RAYAPUR",
+      "KMF",
+      "NAVLURU_RAILWAY_STATION",
+      "SDM_MEDICAL_COLLEGE",
+      "SATTUR",
+      "LAKMANAHALLI",
+      "GANDHINAGAR_DHARWAD",
+      "VIDYAGIRI",
+      "TOLL_NAKA",
+      "HOSA_YELLAPUR_CROSS",
+      "NTTF",
+      "COURT_CIRCLE",
+      "JUBILEE_CIRCLE",
+      "DHARWAD_NEW_BUS_STAND"
+    ],
+    "estimatedTravelTimeMinutes": 35,
+    "estimatedFare": 30,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "05:00",
+      "end": "23:00"
+    },
+    "frequency": {
+      "regular": "Every 8 mins",
+      "peak": "Every 4-5 mins"
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": []
+  },
+  {
+    "routeNumber": "13",
+    "name": "Hubli Station to Dharwad",
+    "operatorCode": "NWKRTC",
+    "mode": "CITY_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "HUBLI_STATION_RAILWAY_COLONY",
+      "VIDYANAGAR",
+      "KLE_TECH",
+      "UNKAL_LAKE",
+      "COURT_CIRCLE",
+      "DHARWAD_NEW_BUS_STAND"
+    ],
+    "estimatedTravelTimeMinutes": 40,
+    "estimatedFare": 20,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "Every 15-20 mins",
+      "peak": "Every 8-10 mins"
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": []
+  },
+  {
+    "routeNumber": "21",
+    "name": "CBT Hubballi to Vidyanagar",
+    "operatorCode": "NWKRTC",
+    "mode": "CITY_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "CBT_HUBBALLI",
+      "STATION_ROAD",
+      "GOKUL_ROAD",
+      "KIMS_HOSPITAL",
+      "VIDYANAGAR"
+    ],
+    "estimatedTravelTimeMinutes": 25,
+    "estimatedFare": 15,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "Every 15 mins",
+      "peak": "Every 7 mins"
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": []
+  },
+  {
+    "routeNumber": "35",
+    "name": "Gokul Road to Navanagar",
+    "operatorCode": "NWKRTC",
+    "mode": "CITY_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "GOKUL_ROAD",
+      "UNKAL",
+      "HUBLI_AIRPORT_ROAD",
+      "NAVANAGAR"
+    ],
+    "estimatedTravelTimeMinutes": 20,
+    "estimatedFare": 12,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "Every 20 mins",
+      "peak": "Every 10 mins"
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": []
+  },
+  {
+    "routeNumber": "45",
+    "name": "Railway Station to KLE Technological University",
+    "operatorCode": "NWKRTC",
+    "mode": "CITY_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "HUBBALLI_RAILWAY_STATION",
+      "STATION_ROAD",
+      "VIDYANAGAR",
+      "BVB_CAMPUS",
+      "KLE_TECH"
+    ],
+    "estimatedTravelTimeMinutes": 20,
+    "estimatedFare": 12,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "Every 15 mins",
+      "peak": "Every 8 mins"
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": []
+  },
+  {
+    "routeNumber": "52",
+    "name": "Dharwad New Bus Stand to SDM Medical College",
+    "operatorCode": "NWKRTC",
+    "mode": "CITY_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "DHARWAD_NEW_BUS_STAND",
+      "JUBILEE_CIRCLE",
+      "COURT_CIRCLE",
+      "PB_ROAD",
+      "SDM_MEDICAL_COLLEGE"
+    ],
+    "estimatedTravelTimeMinutes": 15,
+    "estimatedFare": 10,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "Every 12 mins",
+      "peak": "Every 6 mins"
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": []
+  },
+  {
+    "routeNumber": "67",
+    "name": "Hubli Old Bus Stand to Dharwad",
+    "operatorCode": "NWKRTC",
+    "mode": "CITY_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "CHENNAMMA_CIRCLE",
+      "HUBLI_OLD_BUS_STAND",
+      "GOKUL_ROAD",
+      "UNKAL",
+      "COURT_CIRCLE",
+      "DHARWAD_NEW_BUS_STAND"
+    ],
+    "estimatedTravelTimeMinutes": 35,
+    "estimatedFare": 18,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "Every 20 mins",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": []
+  },
+  {
+    "routeNumber": "72",
+    "name": "Navanagar to KLE Tech",
+    "operatorCode": "NWKRTC",
+    "mode": "CITY_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "NAVANAGAR",
+      "UNKAL",
+      "KLE_TECH",
+      "VIDYANAGAR"
+    ],
+    "estimatedTravelTimeMinutes": 15,
+    "estimatedFare": 10,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "Every 15 mins",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": []
+  },
+  {
+    "routeNumber": "88",
+    "name": "CBT Hubballi to Kengeri",
+    "operatorCode": "NWKRTC",
+    "mode": "CITY_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "CBT_HUBBALLI",
+      "KIMS_HOSPITAL",
+      "KENGERI",
+      "KESHAWAPUR"
+    ],
+    "estimatedTravelTimeMinutes": 18,
+    "estimatedFare": 12,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "Every 20 mins",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": []
+  },
+  {
+    "routeNumber": "FEEDER-A",
+    "name": "Shakti Colony to Unkal Lake BRTS",
+    "operatorCode": "NWKRTC",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "SHAKTI_COLONY",
+      "VIDYANAGAR",
+      "KLE_TECH",
+      "UNKAL_LAKE"
+    ],
+    "estimatedTravelTimeMinutes": 15,
+    "estimatedFare": null,
+    "fareRange": {
+      "min": 8,
+      "max": 10
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "LOW",
+    "notes": []
+  },
+  {
+    "routeNumber": "FEEDER-B",
+    "name": "Devangpeth to CBT Hubballi BRTS",
+    "operatorCode": "NWKRTC",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "DEVANGPETH",
+      "VIJAY_NAGAR",
+      "HDMC",
+      "CBT_HUBBALLI"
+    ],
+    "estimatedTravelTimeMinutes": 15,
+    "estimatedFare": null,
+    "fareRange": {
+      "min": 8,
+      "max": 10
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "LOW",
+    "notes": []
+  },
+  {
+    "routeNumber": "FEEDER-C",
+    "name": "Gopankoppa to Navanagar BRTS",
+    "operatorCode": "NWKRTC",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "GOPANKOPPA",
+      "KENGERI",
+      "KESHAWAPUR",
+      "NAVANAGAR"
+    ],
+    "estimatedTravelTimeMinutes": 15,
+    "estimatedFare": null,
+    "fareRange": {
+      "min": 8,
+      "max": 10
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "LOW",
+    "notes": []
+  },
+  {
+    "routeNumber": "17325",
+    "name": "Vishwamanav Express Dharwad to Hubballi",
+    "operatorCode": "SWR",
+    "mode": "TRAIN",
+    "direction": "DOWN",
+    "stopCodes": [
+      "DHARWAD_RAILWAY_STATION",
+      "HUBBALLI_RAILWAY_STATION"
+    ],
+    "estimatedTravelTimeMinutes": 30,
+    "estimatedFare": 45,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "7 daily",
+      "peak": ""
+    },
+    "dataConfidence": "HIGH",
+    "notes": []
+  },
+  {
+    "routeNumber": "HBX-UBL-2026",
+    "name": "Hubli Airport to Hubli Railway Station",
+    "operatorCode": "NWKRTC",
+    "mode": "CITY_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "HUBBALLI_AIRPORT",
+      "CBT_HUBBALLI",
+      "HOSUR_ROAD",
+      "HOSUR_CROSS",
+      "CHENNAMMA_CIRCLE",
+      "LAMINGTON_SCHOOL_ROAD",
+      "HUBBALLI_RAILWAY_STATION"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": null,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Availability reported for April 2026",
+      "Airport departures: 08:05, 11:45, 17:05, 18:35, 19:10, 20:05, 20:50"
+    ]
+  },
+  {
+    "routeNumber": "SA-001",
+    "name": "Railway Station to CBT",
+    "operatorCode": "LOCAL_AUTO",
+    "mode": "SHARED_AUTO",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "HUBBALLI_RAILWAY_STATION",
+      "CBT_HUBBALLI"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 15,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "06:00",
+      "end": "22:00"
+    },
+    "frequency": {
+      "regular": "Frequent shared service",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Demand level: HIGH"
+    ]
+  },
+  {
+    "routeNumber": "SA-002",
+    "name": "CBT to Vidyanagar/KLE Tech",
+    "operatorCode": "LOCAL_AUTO",
+    "mode": "SHARED_AUTO",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "CBT_HUBBALLI",
+      "KLE_TECH"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 15,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "06:00",
+      "end": "21:30"
+    },
+    "frequency": {
+      "regular": "Frequent shared service",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Demand level: HIGH"
+    ]
+  },
+  {
+    "routeNumber": "SA-003",
+    "name": "Vidyanagar to KLE Tech",
+    "operatorCode": "LOCAL_AUTO",
+    "mode": "SHARED_AUTO",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "VIDYANAGAR",
+      "KLE_TECH"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 10,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "06:30",
+      "end": "21:00"
+    },
+    "frequency": {
+      "regular": "Frequent shared service",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Demand level: HIGH"
+    ]
+  },
+  {
+    "routeNumber": "SA-004",
+    "name": "Dharwad Bus Stand to University Area",
+    "operatorCode": "LOCAL_AUTO",
+    "mode": "SHARED_AUTO",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "DHARWAD_NEW_BUS_STAND",
+      "KLE_TECH"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 20,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "06:00",
+      "end": "21:00"
+    },
+    "frequency": {
+      "regular": "Demand-dependent shared service",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Demand level: MEDIUM"
+    ]
+  },
+  {
+    "routeNumber": "SA-005",
+    "name": "Railway Station to Vidyanagar",
+    "operatorCode": "LOCAL_AUTO",
+    "mode": "SHARED_AUTO",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "HUBBALLI_RAILWAY_STATION",
+      "VIDYANAGAR"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 15,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "06:00",
+      "end": "22:00"
+    },
+    "frequency": {
+      "regular": "Frequent shared service",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Demand level: HIGH"
+    ]
+  },
+  {
+    "routeNumber": "SA-006",
+    "name": "Unkal to Hubli Airport",
+    "operatorCode": "LOCAL_AUTO",
+    "mode": "SHARED_AUTO",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "UNKAL_LAKE",
+      "HUBBALLI_AIRPORT"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 25,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "05:00",
+      "end": "23:00"
+    },
+    "frequency": {
+      "regular": "Demand-dependent shared service",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Demand level: MEDIUM"
+    ]
+  },
+  {
+    "routeNumber": "SA-007",
+    "name": "Gokul Road to Railway Station",
+    "operatorCode": "LOCAL_AUTO",
+    "mode": "SHARED_AUTO",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "GOKUL_ROAD",
+      "HUBBALLI_RAILWAY_STATION"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 15,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "06:00",
+      "end": "22:00"
+    },
+    "frequency": {
+      "regular": "Frequent shared service",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Demand level: HIGH"
+    ]
+  },
+  {
+    "routeNumber": "SA-008",
+    "name": "Court Circle to Dharwad Bus Stand",
+    "operatorCode": "LOCAL_AUTO",
+    "mode": "SHARED_AUTO",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "COURT_CIRCLE",
+      "DHARWAD_NEW_BUS_STAND"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 10,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "06:00",
+      "end": "21:30"
+    },
+    "frequency": {
+      "regular": "Frequent shared service",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Demand level: HIGH"
+    ]
+  },
+  {
+    "routeNumber": "SA-009",
+    "name": "Jubilee Circle to SDM College",
+    "operatorCode": "LOCAL_AUTO",
+    "mode": "SHARED_AUTO",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "JUBILEE_CIRCLE",
+      "SDM_MEDICAL_COLLEGE"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 10,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "06:00",
+      "end": "21:00"
+    },
+    "frequency": {
+      "regular": "Demand-dependent shared service",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Demand level: MEDIUM"
+    ]
+  },
+  {
+    "routeNumber": "SA-010",
+    "name": "Navanagar to Unkal",
+    "operatorCode": "LOCAL_AUTO",
+    "mode": "SHARED_AUTO",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "NAVANAGAR",
+      "UNKAL_LAKE"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 15,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "07:00",
+      "end": "21:00"
+    },
+    "frequency": {
+      "regular": "Demand-dependent shared service",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Demand level: MEDIUM"
+    ]
+  },
+  {
+    "routeNumber": "FS-001",
+    "name": "Navanagar/Sutagatti to Dharwad New Bus Stand",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "SUTAGATTI",
+      "NAVANAGAR",
+      "DHARWAD_NEW_BUS_STAND"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 25,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Original city bus + BRTS fare: INR 28",
+      "Chigari Samparka savings: INR 3"
+    ]
+  },
+  {
+    "routeNumber": "FS-002",
+    "name": "Navanagar/Sutagatti to Dharwad BRTS Terminal/Jubilee Circle",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "SUTAGATTI",
+      "NAVANAGAR",
+      "JUBILEE_CIRCLE"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 24,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Original city bus + BRTS fare: INR 27",
+      "Chigari Samparka savings: INR 4"
+    ]
+  },
+  {
+    "routeNumber": "FS-003",
+    "name": "Navanagar/Sutagatti to Gandhinagar Dharwad",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "SUTAGATTI",
+      "NAVANAGAR",
+      "GANDHINAGAR_DHARWAD"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 20,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Original city bus + BRTS fare: INR 24",
+      "Chigari Samparka savings: INR 4"
+    ]
+  },
+  {
+    "routeNumber": "FS-004",
+    "name": "Navanagar/Sutagatti to SDM Hospital",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "SUTAGATTI",
+      "NAVANAGAR",
+      "SDM_MEDICAL_COLLEGE"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 17,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Original city bus + BRTS fare: INR 21",
+      "Chigari Samparka savings: INR 4"
+    ]
+  },
+  {
+    "routeNumber": "FS-005",
+    "name": "Navanagar/Sutagatti to CBT Hubballi/Railway Station",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "SUTAGATTI",
+      "NAVANAGAR",
+      "CBT_HUBBALLI",
+      "HUBBALLI_RAILWAY_STATION"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 22,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Original city bus + BRTS fare: INR 26",
+      "Chigari Samparka savings: INR 4"
+    ]
+  },
+  {
+    "routeNumber": "FS-006",
+    "name": "Navanagar/Sutagatti to Hubli Old Bus Stand/HDMC",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "SUTAGATTI",
+      "NAVANAGAR",
+      "HDMC",
+      "HUBLI_OLD_BUS_STAND"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 20,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Original city bus + BRTS fare: INR 24",
+      "Chigari Samparka savings: INR 4"
+    ]
+  },
+  {
+    "routeNumber": "FS-007",
+    "name": "Navanagar/Sutagatti to KLE Technological University",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "SUTAGATTI",
+      "NAVANAGAR",
+      "KLE_TECH"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 18,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Original city bus + BRTS fare: INR 22",
+      "Chigari Samparka savings: INR 4"
+    ]
+  },
+  {
+    "routeNumber": "FS-008",
+    "name": "Shakti Colony to Unkal Lake BRTS via KLE Tech",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "SHAKTI_COLONY",
+      "KLE_TECH",
+      "UNKAL_LAKE"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 16,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Original city bus + BRTS fare: INR 20",
+      "Chigari Samparka savings: INR 4"
+    ]
+  },
+  {
+    "routeNumber": "FS-009",
+    "name": "Shakti Colony to CBT Hubballi via Vidyanagar",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "SHAKTI_COLONY",
+      "VIDYANAGAR",
+      "CBT_HUBBALLI"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 14,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Original city bus + BRTS fare: INR 18",
+      "Chigari Samparka savings: INR 4"
+    ]
+  },
+  {
+    "routeNumber": "FS-010",
+    "name": "Devangpeth to CBT via Vijay Nagar and HDMC",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "DEVANGPETH",
+      "VIJAY_NAGAR",
+      "HDMC",
+      "CBT_HUBBALLI"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 13,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Original city bus + BRTS fare: INR 17",
+      "Chigari Samparka savings: INR 4"
+    ]
+  },
+  {
+    "routeNumber": "FS-011",
+    "name": "Devangpeth to KIMS via Vijay Nagar",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "DEVANGPETH",
+      "VIJAY_NAGAR",
+      "KIMS_HOSPITAL"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 12,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Original city bus + BRTS fare: INR 16",
+      "Chigari Samparka savings: INR 4"
+    ]
+  },
+  {
+    "routeNumber": "FS-012",
+    "name": "Gopankoppa to Unkal BRTS via Kengeri and Navanagar",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "GOPANKOPPA",
+      "KENGERI",
+      "NAVANAGAR",
+      "UNKAL_LAKE"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 15,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Original city bus + BRTS fare: INR 19",
+      "Chigari Samparka savings: INR 4"
+    ]
+  },
+  {
+    "routeNumber": "FS-013",
+    "name": "Gopankoppa to CBT Hubballi via Keshawapur",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "GOPANKOPPA",
+      "KESHAWAPUR",
+      "CBT_HUBBALLI"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 14,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Original city bus + BRTS fare: INR 18",
+      "Chigari Samparka savings: INR 4"
+    ]
+  },
+  {
+    "routeNumber": "FS-014",
+    "name": "Kengeri to CBT via KLE Tech and Vidyanagar",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "KENGERI",
+      "KLE_TECH",
+      "VIDYANAGAR",
+      "CBT_HUBBALLI"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 13,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Original city bus + BRTS fare: INR 17",
+      "Chigari Samparka savings: INR 4"
+    ]
+  },
+  {
+    "routeNumber": "FS-015",
+    "name": "Keshawapur to Unkal Lake BRTS via Navanagar",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "direction": "BIDIRECTIONAL",
+    "stopCodes": [
+      "KESHAWAPUR",
+      "NAVANAGAR",
+      "UNKAL_LAKE"
+    ],
+    "estimatedTravelTimeMinutes": null,
+    "estimatedFare": 14,
+    "fareRange": {
+      "min": null,
+      "max": null
+    },
+    "serviceHours": {
+      "start": "",
+      "end": ""
+    },
+    "frequency": {
+      "regular": "",
+      "peak": ""
+    },
+    "dataConfidence": "MEDIUM",
+    "notes": [
+      "Original city bus + BRTS fare: INR 18",
+      "Chigari Samparka savings: INR 4"
+    ]
+  }
+]

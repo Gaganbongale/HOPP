@@ -1,0 +1,1655 @@
+[
+  {
+    "code": "HUBBALLI_RAILWAY_STATION",
+    "name": "Hubballi Railway Station",
+    "aliases": [
+      "SSS Hubballi Junction",
+      "Railway Station Hubli"
+    ],
+    "city": "Hubballi",
+    "area": "Hubballi Railway Station (SSS Hubballi Jn)",
+    "stopTypes": [
+      "BUS_STOP",
+      "BUS_TERMINAL",
+      "RAILWAY_STATION"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.1485,
+        15.3495
+      ]
+    },
+    "importance": "HIGH",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "DHARWAD_RAILWAY_STATION",
+    "name": "Dharwad Railway Station",
+    "aliases": [
+      "DWR"
+    ],
+    "city": "Dharwad",
+    "area": "Dharwad Railway Station",
+    "stopTypes": [
+      "BUS_STOP",
+      "BUS_TERMINAL",
+      "RAILWAY_STATION"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.004,
+        15.441
+      ]
+    },
+    "importance": "HIGH",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "CBT_HUBBALLI",
+    "name": "CBT Hubballi",
+    "aliases": [
+      "CBT Hubballi",
+      "Central Bus Stand"
+    ],
+    "city": "Hubballi",
+    "area": "CBT Hubballi (Central Bus Terminal)",
+    "stopTypes": [
+      "BUS_STOP",
+      "BUS_TERMINAL",
+      "BRTS_STATION"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.135,
+        15.365
+      ]
+    },
+    "importance": "HIGH",
+    "dataConfidence": "HIGH",
+    "corridorDistanceKm": 0
+  },
+  {
+    "code": "DHARWAD_NEW_BUS_STAND",
+    "name": "Dharwad New Bus Stand",
+    "aliases": [
+      "Dharwad CBT",
+      "Dharwad BRTS Terminal"
+    ],
+    "city": "Dharwad",
+    "area": "Dharwad New Bus Stand",
+    "stopTypes": [
+      "BUS_STOP",
+      "BUS_TERMINAL",
+      "BRTS_STATION"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0075,
+        15.458
+      ]
+    },
+    "importance": "HIGH",
+    "dataConfidence": "HIGH",
+    "corridorDistanceKm": 15
+  },
+  {
+    "code": "KLE_TECH",
+    "name": "KLE Technological University",
+    "aliases": [
+      "KLE Tech"
+    ],
+    "city": "Hubballi",
+    "area": "KLE Technological University",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.1231,
+        15.3688
+      ]
+    },
+    "importance": "HIGH",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "BVB_CAMPUS",
+    "name": "BVB Campus",
+    "aliases": [
+      "BVB",
+      "BVBCET"
+    ],
+    "city": "Hubballi",
+    "area": "BVB Campus (Vidyanagar)",
+    "stopTypes": [
+      "BUS_STOP",
+      "BRTS_STATION"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.1231,
+        15.3683
+      ]
+    },
+    "importance": "HIGH",
+    "dataConfidence": "HIGH",
+    "corridorDistanceKm": 3.5
+  },
+  {
+    "code": "KIMS_HOSPITAL",
+    "name": "KIMS Hospital Vidyanagar",
+    "aliases": [
+      "KIMS Hospital",
+      "KIMS"
+    ],
+    "city": "Hubballi",
+    "area": "KIMS Hospital Vidyanagar",
+    "stopTypes": [
+      "BUS_STOP",
+      "BRTS_STATION"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.1215,
+        15.3693
+      ]
+    },
+    "importance": "HIGH",
+    "dataConfidence": "HIGH",
+    "corridorDistanceKm": 2.5
+  },
+  {
+    "code": "SDM_MEDICAL_COLLEGE",
+    "name": "SDM Medical College Dharwad",
+    "aliases": [
+      "SDM Medical College",
+      "SDM Hospital"
+    ],
+    "city": "Dharwad",
+    "area": "SDM Medical College Dharwad",
+    "stopTypes": [
+      "BUS_STOP",
+      "BRTS_STATION"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.008,
+        15.459
+      ]
+    },
+    "importance": "HIGH",
+    "dataConfidence": "HIGH",
+    "corridorDistanceKm": 10
+  },
+  {
+    "code": "HUBBALLI_AIRPORT",
+    "name": "Hubballi Airport",
+    "aliases": [
+      "Hubballi Airport",
+      "HBX Airport"
+    ],
+    "city": "Hubballi",
+    "area": "Hubballi Airport (HBX)",
+    "stopTypes": [
+      "BUS_STOP",
+      "BUS_TERMINAL",
+      "AIRPORT"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0842,
+        15.357
+      ]
+    },
+    "importance": "HIGH",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "U_MALL",
+    "name": "U Mall Hubli",
+    "aliases": [
+      "U Mall"
+    ],
+    "city": "Hubballi",
+    "area": "U Mall Hubli",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.125,
+        15.3481
+      ]
+    },
+    "importance": "MEDIUM",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "VIDYANAGAR",
+    "name": "Vidyanagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Vidyanagar",
+    "stopTypes": [
+      "BUS_STOP",
+      "BRTS_STATION"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.122,
+        15.368
+      ]
+    },
+    "importance": "HIGH",
+    "dataConfidence": "HIGH",
+    "corridorDistanceKm": 3
+  },
+  {
+    "code": "UNKAL",
+    "name": "Unkal",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Unkal",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.1064,
+        15.3782
+      ]
+    },
+    "importance": "HIGH",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "UNKAL_LAKE",
+    "name": "Unkal Lake",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Unkal Lake",
+    "stopTypes": [
+      "BUS_STOP",
+      "BRTS_STATION"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.1119,
+        15.3823
+      ]
+    },
+    "importance": "MEDIUM",
+    "dataConfidence": "HIGH",
+    "corridorDistanceKm": 5
+  },
+  {
+    "code": "GOKUL_ROAD",
+    "name": "Gokul Road",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Gokul Road",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.115,
+        15.355
+      ]
+    },
+    "importance": "HIGH",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "NAVANAGAR",
+    "name": "Navanagar",
+    "aliases": [
+      "Navanagara"
+    ],
+    "city": "Hubballi",
+    "area": "Navanagar",
+    "stopTypes": [
+      "BUS_STOP",
+      "BRTS_STATION"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0815,
+        15.3932
+      ]
+    },
+    "importance": "MEDIUM",
+    "dataConfidence": "HIGH",
+    "corridorDistanceKm": 7
+  },
+  {
+    "code": "COURT_CIRCLE",
+    "name": "Court Circle",
+    "aliases": [
+      "Court Circle"
+    ],
+    "city": "Dharwad",
+    "area": "Court Circle (Dharwad)",
+    "stopTypes": [
+      "BUS_STOP",
+      "BRTS_STATION"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.005,
+        15.456
+      ]
+    },
+    "importance": "HIGH",
+    "dataConfidence": "HIGH",
+    "corridorDistanceKm": 14
+  },
+  {
+    "code": "JUBILEE_CIRCLE",
+    "name": "Jubilee Circle",
+    "aliases": [
+      "Jubilee Circle"
+    ],
+    "city": "Dharwad",
+    "area": "Jubilee Circle (Dharwad)",
+    "stopTypes": [
+      "BUS_STOP",
+      "BUS_TERMINAL",
+      "BRTS_STATION"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0075,
+        15.4581
+      ]
+    },
+    "importance": "HIGH",
+    "dataConfidence": "HIGH",
+    "corridorDistanceKm": 14.5
+  },
+  {
+    "code": "PC_JABIN_COLLEGE",
+    "name": "PC Jabin College Vidyanagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "PC Jabin College Vidyanagar",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.1219,
+        15.367
+      ]
+    },
+    "importance": "MEDIUM",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "VASAN_EYE_CARE",
+    "name": "Vasan Eye Care Hospital",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Vasan Eye Care Hospital",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0045,
+        15.4555
+      ]
+    },
+    "importance": "MEDIUM",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "CHANDRAMAULESHWARA_TEMPLE",
+    "name": "Chandramauleshwara Temple Unkal",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Chandramauleshwara Temple Unkal",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.108,
+        15.38
+      ]
+    },
+    "importance": "MEDIUM",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "NRUPATUNGA_BETTA",
+    "name": "Nrupatunga Betta",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Nrupatunga Betta (Hill)",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.11,
+        15.39
+      ]
+    },
+    "importance": "MEDIUM",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "INDIRA_GANDHI_GLASS_HOUSE",
+    "name": "Indira Gandhi Glass House",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Indira Gandhi Glass House",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.105,
+        15.385
+      ]
+    },
+    "importance": "MEDIUM",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "KUVEMPU_NAGAR",
+    "name": "Kuvempu Nagar Dharwad",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Kuvempu Nagar Dharwad",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.002,
+        15.452
+      ]
+    },
+    "importance": "MEDIUM",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "DESHPANDE_NAGAR",
+    "name": "Deshpande Nagar Hubli",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Deshpande Nagar Hubli",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0052,
+        15.4558
+      ]
+    },
+    "importance": "MEDIUM",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "GADAGA_ROAD",
+    "name": "Gadaga Road Hubli",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Gadaga Road Hubli",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.13,
+        15.35
+      ]
+    },
+    "importance": "MEDIUM",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "STATION_ROAD",
+    "name": "Station Road Hubli",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Station Road Hubli",
+    "stopTypes": [
+      "BUS_STOP",
+      "BUS_TERMINAL"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.149,
+        15.348
+      ]
+    },
+    "importance": "HIGH",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "RD_STREET",
+    "name": "RD Street Dharwad",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "RD Street Dharwad",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.006,
+        15.457
+      ]
+    },
+    "importance": "MEDIUM",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "PUSPAGIRI",
+    "name": "Puspagiri Dharwad",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Puspagiri Dharwad",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.01,
+        15.45
+      ]
+    },
+    "importance": "LOW",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "CAMP_AREA",
+    "name": "Camp Area Dharwad",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Camp Area Dharwad",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.004,
+        15.454
+      ]
+    },
+    "importance": "MEDIUM",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "APMC_MARKET",
+    "name": "APMC Market Hubli",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "APMC Market Hubli",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.138,
+        15.36
+      ]
+    },
+    "importance": "MEDIUM",
+    "dataConfidence": "HIGH"
+  },
+  {
+    "code": "AMBEDKAR_CIRCLE",
+    "name": "Dr. B.R. Ambedkar Circle",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Dr. B.R. Ambedkar Circle",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 0.5,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "HDMC",
+    "name": "HDMC",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "HDMC",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 1,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "HOSUR_CROSS",
+    "name": "Hosur Cross",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Hosur Cross",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 1.5,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "HOSUR_REGIONAL_TERMINAL",
+    "name": "Hosur Regional Terminal",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Hosur Regional Terminal",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 2,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "UNKAL_CROSS",
+    "name": "Unkal Cross",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Unkal Cross",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 4,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "UNKAL_VILLAGE",
+    "name": "Unkal Village",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Unkal Village",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 4.5,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "BIRIDEVARAKOPPA",
+    "name": "Biridevarakoppa",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Biridevarakoppa",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 5.5,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "SHANTINIKETHAN",
+    "name": "Shantinikethan",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Shantinikethan",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 6,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "APMC_3RD_GATE",
+    "name": "APMC 3rd Gate",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "APMC 3rd Gate",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 6.5,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "RTO",
+    "name": "RTO",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "RTO",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 7.5,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "ISKCON_TEMPLE",
+    "name": "ISKCON Temple",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "ISKCON Temple",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 8,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "RAYAPUR",
+    "name": "Rayapur",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Rayapur",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 8.5,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "KMF",
+    "name": "KMF",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "KMF",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 9,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "NAVLURU_RAILWAY_STATION",
+    "name": "Navluru Railway Station",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Navluru Railway Station",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 9.5,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "SATTUR",
+    "name": "Sattur",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Sattur",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 10.5,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "LAKMANAHALLI",
+    "name": "Lakmanahalli",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Lakmanahalli",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 11,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "GANDHINAGAR_DHARWAD",
+    "name": "Gandhinagar",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Gandhinagar",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 11.5,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "VIDYAGIRI",
+    "name": "Vidyagiri",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Vidyagiri",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 12,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "TOLL_NAKA",
+    "name": "Toll Naka",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Toll Naka",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 12.5,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "HOSA_YELLAPUR_CROSS",
+    "name": "Hosa Yellapur Cross",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Hosa Yellapur Cross",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 13,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "NTTF",
+    "name": "NTTF",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "NTTF",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 13.5,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "SANJIVINI_PARK",
+    "name": "Sanjivini Park",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Sanjivini Park",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 15.5,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "YALAKKI_SHETTAR_COLONY_CROSS",
+    "name": "Yalakki Shettar Colony Cross",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Yalakki Shettar Colony Cross",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 16,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "AGRICULTURAL_UNIVERSITY",
+    "name": "Agricultural University",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Agricultural University",
+    "stopTypes": [
+      "BRTS_STATION"
+    ],
+    "corridorDistanceKm": 17,
+    "importance": "MEDIUM",
+    "dataConfidence": "MEDIUM"
+  },
+  {
+    "code": "HUBLI_STATION_RAILWAY_COLONY",
+    "name": "Hubli Station Railway Colony",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Hubli Station Railway Colony",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "DHARWAD_HOSAYELLAPUR",
+    "name": "Dharwad Hosayellapur",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Dharwad Hosayellapur",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "HUBLI_AIRPORT_ROAD",
+    "name": "Hubli Airport Road",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Hubli Airport Road",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "PB_ROAD",
+    "name": "PB Road",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "PB Road",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "SHAKTI_COLONY",
+    "name": "Shakti Colony",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Shakti Colony",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "DEVANGPETH",
+    "name": "Devangpeth",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Devangpeth",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "VIJAY_NAGAR",
+    "name": "Vijay Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Vijay Nagar",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "GOPANKOPPA",
+    "name": "Gopankoppa",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Gopankoppa",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "KENGERI",
+    "name": "Kengeri",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Kengeri",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "KESHAWAPUR",
+    "name": "Keshawapur",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Keshawapur",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "SUTAGATTI",
+    "name": "Sutagatti",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Sutagatti",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "CHENNAMMA_CIRCLE",
+    "name": "Kitturu Rani Channamma Circle",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Kitturu Rani Channamma Circle",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "HUBLI_OLD_BUS_STAND",
+    "name": "Hubli Old Bus Stand",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Hubli Old Bus Stand",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "HOSUR_ROAD",
+    "name": "Hosur Road",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Hosur Road",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "LAMINGTON_SCHOOL_ROAD",
+    "name": "Lamington School Road",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Lamington School Road",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "DHARWAD_OLD_BUS_STAND",
+    "name": "Dharwad Old Bus Stand",
+    "aliases": [],
+    "city": "Dharwad",
+    "area": "Dharwad Old Bus Stand",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "UNKAL_RAILWAY_HALT",
+    "name": "Unkal Railway Halt",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Unkal Railway Halt",
+    "stopTypes": [
+      "BUS_STOP"
+    ],
+    "importance": "MEDIUM",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "DEEN_BANDHU_COLONY",
+    "name": "Deen Bandhu Colony",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Deen Bandhu Colony",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "BENDIGERI",
+    "name": "Bendigeri",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Bendigeri",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "BHANDIWADAGASI",
+    "name": "Bhandiwadagasi",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Bhandiwadagasi",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "SANSTIMATH",
+    "name": "Sanstimath",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Sanstimath",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "K_R_NAGAR",
+    "name": "K.R. Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "K.R. Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "KHB_COLONY",
+    "name": "KHB Colony",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "KHB Colony",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "ASHOK_NAGAR",
+    "name": "Ashok Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Ashok Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "BHAVANINAGAR",
+    "name": "Bhavaninagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Bhavaninagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "UDAY_NAGARA",
+    "name": "Uday Nagara",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Uday Nagara",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "BENGERI",
+    "name": "Bengeri",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Bengeri",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "GOLDEN_PARK_AREA",
+    "name": "Golden Park Area",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Golden Park Area",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "SILVER_PARK_AREA",
+    "name": "Silver Park Area",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Silver Park Area",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "BHUVANINAGAR",
+    "name": "Bhuvaninagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Bhuvaninagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "GANDHINAGAR_HUBLI",
+    "name": "Gandhinagar Hubli",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Gandhinagar Hubli",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "MG_ROAD",
+    "name": "MG Road",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "MG Road",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "LAMINGTON_ROAD",
+    "name": "Lamington Road",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Lamington Road",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "CHANDRAMOULI_NAGAR",
+    "name": "Chandramouli Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Chandramouli Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "KAMALAT_NAGAR",
+    "name": "Kamalat Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Kamalat Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "RABINDRANATH_NAGAR",
+    "name": "Rabindranath Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Rabindranath Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "RAJIV_GANDHI_NAGAR",
+    "name": "Rajiv Gandhi Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Rajiv Gandhi Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "SADANANDA_NAGAR",
+    "name": "Sadananda Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Sadananda Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "SIDDHESHWAR_NAGAR",
+    "name": "Siddheshwar Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Siddheshwar Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "GANDHI_NAGAR_NEAR_KIMS",
+    "name": "Gandhi Nagar Near KIMS",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Gandhi Nagar Near KIMS",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "BELLEHULLI",
+    "name": "Bellehulli",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Bellehulli",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "KAMAKSHI_NAGAR",
+    "name": "Kamakshi Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Kamakshi Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "KODAGALI",
+    "name": "Kodagali",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Kodagali",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "KOPPA_KOL",
+    "name": "Koppa Kol",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Koppa Kol",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "MASTIKATTI",
+    "name": "Mastikatti",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Mastikatti",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "MUDDEBIHALA",
+    "name": "Muddebihala",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Muddebihala",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "NEHRU_NAGAR",
+    "name": "Nehru Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Nehru Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "NRUPATUNGA_NAGAR",
+    "name": "Nrupatunga Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Nrupatunga Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "PANCHAYAT_NAGAR",
+    "name": "Panchayat Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Panchayat Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "RAGHAVENDRA_NAGAR",
+    "name": "Raghavendra Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Raghavendra Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "RAJIV_NAGAR_NEAR_AIRPORT",
+    "name": "Rajiv Nagar Near Airport",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Rajiv Nagar Near Airport",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "RAMAKRISHNA_NAGAR",
+    "name": "Ramakrishna Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Ramakrishna Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "RAMESHWAR_NAGAR",
+    "name": "Rameshwar Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Rameshwar Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "SADASIV_NAGAR",
+    "name": "Sadasiv Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Sadasiv Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "S_VR_NAGAR",
+    "name": "S VR Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "S VR Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "SHIVAJI_NAGAR",
+    "name": "Shivaji Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Shivaji Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "SRI_KRISHNA_NAGAR",
+    "name": "Sri Krishna Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Sri Krishna Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "STATION_ROAD_AREA",
+    "name": "Station Road Area",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Station Road Area",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  },
+  {
+    "code": "TILAK_NAGAR",
+    "name": "Tilak Nagar",
+    "aliases": [],
+    "city": "Hubballi",
+    "area": "Tilak Nagar",
+    "stopTypes": [
+      "AREA"
+    ],
+    "importance": "LOW",
+    "dataConfidence": "LOW"
+  }
+]

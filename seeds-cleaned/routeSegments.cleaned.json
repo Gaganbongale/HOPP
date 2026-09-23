@@ -1,0 +1,3170 @@
+[
+  {
+    "from": "CBT Hubballi",
+    "to": "Dr B R Ambedkar Circle",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Dr B R Ambedkar Circle",
+    "to": "CBT Hubballi",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Dr B R Ambedkar Circle",
+    "to": "HDMC",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "HDMC",
+    "to": "Dr B R Ambedkar Circle",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "HDMC",
+    "to": "Hubballi Central Bus Terminal",
+    "transportType": "BRTS",
+    "distanceKm": 0,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Hubballi Central Bus Terminal",
+    "to": "HDMC",
+    "transportType": "BRTS",
+    "distanceKm": 0,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Hubballi Central Bus Terminal",
+    "to": "Hosur Regional Terminal",
+    "transportType": "BRTS",
+    "distanceKm": 1,
+    "durationMinutes": 2,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Hosur Regional Terminal",
+    "to": "Hubballi Central Bus Terminal",
+    "transportType": "BRTS",
+    "distanceKm": 1,
+    "durationMinutes": 2,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Hosur Regional Terminal",
+    "to": "KIMS",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "KIMS",
+    "to": "Hosur Regional Terminal",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "KIMS",
+    "to": "Vidyanagar",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "KIMS",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "BVB",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "BVB",
+    "to": "Vidyanagar",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "BVB",
+    "to": "Unkal Cross",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Unkal Cross",
+    "to": "BVB",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Unkal Cross",
+    "to": "Unkal Village",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Unkal Village",
+    "to": "Unkal Cross",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Unkal Village",
+    "to": "Unkal Lake",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Unkal Lake",
+    "to": "Unkal Village",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Unkal Lake",
+    "to": "Biridevarakoppa",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Biridevarakoppa",
+    "to": "Unkal Lake",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Biridevarakoppa",
+    "to": "Shantinikethan",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Shantinikethan",
+    "to": "Biridevarakoppa",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Shantinikethan",
+    "to": "APMC 3rd Gate",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "APMC 3rd Gate",
+    "to": "Shantinikethan",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "APMC 3rd Gate",
+    "to": "Navanagara",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Navanagara",
+    "to": "APMC 3rd Gate",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Navanagara",
+    "to": "RTO",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "RTO",
+    "to": "Navanagara",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "RTO",
+    "to": "ISKCON Temple",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "ISKCON Temple",
+    "to": "RTO",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "ISKCON Temple",
+    "to": "Rayapur",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Rayapur",
+    "to": "ISKCON Temple",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Rayapur",
+    "to": "KMF",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "KMF",
+    "to": "Rayapur",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "KMF",
+    "to": "Navluru Railway Station",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Navluru Railway Station",
+    "to": "KMF",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Navluru Railway Station",
+    "to": "SDM Medical College",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "SDM Medical College",
+    "to": "Navluru Railway Station",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "SDM Medical College",
+    "to": "Sattur",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Sattur",
+    "to": "SDM Medical College",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Sattur",
+    "to": "Lakmanahalli",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Lakmanahalli",
+    "to": "Sattur",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Lakmanahalli",
+    "to": "Gandhinagar",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Gandhinagar",
+    "to": "Lakmanahalli",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Gandhinagar",
+    "to": "Vidyagiri",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Vidyagiri",
+    "to": "Gandhinagar",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Vidyagiri",
+    "to": "Toll Naka",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Toll Naka",
+    "to": "Vidyagiri",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Toll Naka",
+    "to": "Hosa Yellapur Cross",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Hosa Yellapur Cross",
+    "to": "Toll Naka",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Hosa Yellapur Cross",
+    "to": "NTTF",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "NTTF",
+    "to": "Hosa Yellapur Cross",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "NTTF",
+    "to": "Court Circle",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Court Circle",
+    "to": "NTTF",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Court Circle",
+    "to": "Jubilee Circle",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Jubilee Circle",
+    "to": "Court Circle",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Jubilee Circle",
+    "to": "Dharwad BRTS Terminal",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Dharwad BRTS Terminal",
+    "to": "Jubilee Circle",
+    "transportType": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "CBT Hubballi",
+    "to": "Hosur Regional Terminal",
+    "transportType": "BRTS",
+    "distanceKm": 2,
+    "durationMinutes": 4,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Hosur Regional Terminal",
+    "to": "CBT Hubballi",
+    "transportType": "BRTS",
+    "distanceKm": 2,
+    "durationMinutes": 4,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "Unkal Lake",
+    "transportType": "BRTS",
+    "distanceKm": 2,
+    "durationMinutes": 4,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Unkal Lake",
+    "to": "Vidyanagar",
+    "transportType": "BRTS",
+    "distanceKm": 2,
+    "durationMinutes": 4,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Unkal Lake",
+    "to": "Navanagara",
+    "transportType": "BRTS",
+    "distanceKm": 2,
+    "durationMinutes": 4,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Navanagara",
+    "to": "Unkal Lake",
+    "transportType": "BRTS",
+    "distanceKm": 2,
+    "durationMinutes": 4,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Navanagara",
+    "to": "SDM Medical College",
+    "transportType": "BRTS",
+    "distanceKm": 3,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "SDM Medical College",
+    "to": "Navanagara",
+    "transportType": "BRTS",
+    "distanceKm": 3,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Sattur",
+    "to": "Court Circle",
+    "transportType": "BRTS",
+    "distanceKm": 3.5,
+    "durationMinutes": 7,
+    "fare": 18,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Court Circle",
+    "to": "Sattur",
+    "transportType": "BRTS",
+    "distanceKm": 3.5,
+    "durationMinutes": 7,
+    "fare": 18,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "CBT Hubballi",
+    "to": "Unkal Lake",
+    "transportType": "BRTS",
+    "distanceKm": 5,
+    "durationMinutes": 10,
+    "fare": 18,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Unkal Lake",
+    "to": "CBT Hubballi",
+    "transportType": "BRTS",
+    "distanceKm": 5,
+    "durationMinutes": 10,
+    "fare": 18,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Unkal Lake",
+    "to": "Court Circle",
+    "transportType": "BRTS",
+    "distanceKm": 9,
+    "durationMinutes": 18,
+    "fare": 25,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Court Circle",
+    "to": "Unkal Lake",
+    "transportType": "BRTS",
+    "distanceKm": 9,
+    "durationMinutes": 18,
+    "fare": 25,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "CBT Hubballi",
+    "to": "HDMC",
+    "transportType": "BRTS",
+    "distanceKm": 1,
+    "durationMinutes": 2,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "HDMC",
+    "to": "CBT Hubballi",
+    "transportType": "BRTS",
+    "distanceKm": 1,
+    "durationMinutes": 2,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "HDMC",
+    "to": "Hosur Regional Terminal",
+    "transportType": "BRTS",
+    "distanceKm": 1,
+    "durationMinutes": 2,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Hosur Regional Terminal",
+    "to": "HDMC",
+    "transportType": "BRTS",
+    "distanceKm": 1,
+    "durationMinutes": 2,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Hosur Regional Terminal",
+    "to": "Vidyanagar",
+    "transportType": "BRTS",
+    "distanceKm": 1,
+    "durationMinutes": 2,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "Hosur Regional Terminal",
+    "transportType": "BRTS",
+    "distanceKm": 1,
+    "durationMinutes": 2,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Navanagara",
+    "to": "Rayapur",
+    "transportType": "BRTS",
+    "distanceKm": 1.5,
+    "durationMinutes": 3,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Rayapur",
+    "to": "Navanagara",
+    "transportType": "BRTS",
+    "distanceKm": 1.5,
+    "durationMinutes": 3,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Rayapur",
+    "to": "SDM Medical College",
+    "transportType": "BRTS",
+    "distanceKm": 1.5,
+    "durationMinutes": 3,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "SDM Medical College",
+    "to": "Rayapur",
+    "transportType": "BRTS",
+    "distanceKm": 1.5,
+    "durationMinutes": 3,
+    "fare": 12,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Navanagar",
+    "to": "Unkal Lake BRTS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Unkal Lake BRTS",
+    "to": "Navanagar",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Unkal Lake BRTS",
+    "to": "Court Circle BRTS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Court Circle BRTS",
+    "to": "Unkal Lake BRTS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Court Circle BRTS",
+    "to": "Jubilee Circle BRTS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Jubilee Circle BRTS",
+    "to": "Court Circle BRTS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Jubilee Circle BRTS",
+    "to": "Dharwad New Bus Stand",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Dharwad New Bus Stand",
+    "to": "Jubilee Circle BRTS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Court Circle BRTS",
+    "to": "SDM Medical College",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "SDM Medical College",
+    "to": "Court Circle BRTS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "SDM Medical College",
+    "to": "Gandhinagar Dharwad",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Gandhinagar Dharwad",
+    "to": "SDM Medical College",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Court Circle BRTS",
+    "to": "SDM Hospital",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "SDM Hospital",
+    "to": "Court Circle BRTS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Unkal Lake BRTS",
+    "to": "KIMS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KIMS",
+    "to": "Unkal Lake BRTS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KIMS",
+    "to": "Vidyanagar",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "KIMS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "CBT Hubballi",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "CBT Hubballi",
+    "to": "Vidyanagar",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KIMS",
+    "to": "Hubli Old BS/HDMC",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Hubli Old BS/HDMC",
+    "to": "KIMS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KIMS",
+    "to": "KLE Technological University",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KLE Technological University",
+    "to": "KIMS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Shakti Colony",
+    "to": "KLE Tech",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KLE Tech",
+    "to": "Shakti Colony",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KLE Tech",
+    "to": "Vidyanagar",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "KLE Tech",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "Unkal Lake BRTS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Unkal Lake BRTS",
+    "to": "Vidyanagar",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KIMS",
+    "to": "CBT Hubballi",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "CBT Hubballi",
+    "to": "KIMS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Devangpeth",
+    "to": "Vijay Nagar",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Vijay Nagar",
+    "to": "Devangpeth",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Vijay Nagar",
+    "to": "HDMC",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "HDMC",
+    "to": "Vijay Nagar",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "HDMC",
+    "to": "CBT Hubballi",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "CBT Hubballi",
+    "to": "HDMC",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Vijay Nagar",
+    "to": "KIMS Hospital",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KIMS Hospital",
+    "to": "Vijay Nagar",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Gopankoppa",
+    "to": "Kengeri",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Kengeri",
+    "to": "Gopankoppa",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Kengeri",
+    "to": "Keshawapur",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Keshawapur",
+    "to": "Kengeri",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Keshawapur",
+    "to": "Navanagar",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Navanagar",
+    "to": "Keshawapur",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Gopankoppa",
+    "to": "Keshawapur",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Keshawapur",
+    "to": "Gopankoppa",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Navanagar",
+    "to": "Unkal",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Unkal",
+    "to": "Navanagar",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Unkal",
+    "to": "CBT Hubballi",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "CBT Hubballi",
+    "to": "Unkal",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Kengeri",
+    "to": "KLE Tech",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KLE Tech",
+    "to": "Kengeri",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Hubli Railway Station",
+    "to": "Vidyanagar",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "Hubli Railway Station",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KLE Tech",
+    "to": "Unkal Lake BRTS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Unkal Lake BRTS",
+    "to": "KLE Tech",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Court Circle BRTS",
+    "to": "Dharwad Hosayellapur",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Dharwad Hosayellapur",
+    "to": "Court Circle BRTS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "CBT Hubballi",
+    "to": "Station Road",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Station Road",
+    "to": "CBT Hubballi",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Station Road",
+    "to": "Gokul Road",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Gokul Road",
+    "to": "Station Road",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Gokul Road",
+    "to": "KIMS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KIMS",
+    "to": "Gokul Road",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Gokul Road",
+    "to": "Unkal",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Unkal",
+    "to": "Gokul Road",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Hubli Railway Station",
+    "to": "Station Road",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Station Road",
+    "to": "Hubli Railway Station",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Station Road",
+    "to": "Vidyanagar",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "Station Road",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "BVB",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "BVB",
+    "to": "Vidyanagar",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "BVB",
+    "to": "KLE Technological University",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KLE Technological University",
+    "to": "BVB",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Dharwad New Bus Stand",
+    "to": "Jubilee Circle",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Jubilee Circle",
+    "to": "Dharwad New Bus Stand",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Jubilee Circle",
+    "to": "Court Circle",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Court Circle",
+    "to": "Jubilee Circle",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Court Circle",
+    "to": "PB Road",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "PB Road",
+    "to": "Court Circle",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "PB Road",
+    "to": "SDM Medical College",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "SDM Medical College",
+    "to": "PB Road",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Hubballi Airport",
+    "to": "CBT",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "CBT",
+    "to": "Hubballi Airport",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "CBT",
+    "to": "Hosur Road",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Hosur Road",
+    "to": "CBT",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Hosur Road",
+    "to": "Hosur Cross",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Hosur Cross",
+    "to": "Hosur Road",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Hosur Cross",
+    "to": "Kitturu Rani Channamma Circle",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Kitturu Rani Channamma Circle",
+    "to": "Hosur Cross",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Kitturu Rani Channamma Circle",
+    "to": "Lamington School Road",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Lamington School Road",
+    "to": "Kitturu Rani Channamma Circle",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Lamington School Road",
+    "to": "Hubli Railway Station",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Hubli Railway Station",
+    "to": "Lamington School Road",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Unkal",
+    "to": "KIMS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KIMS",
+    "to": "Unkal",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KIMS",
+    "to": "KLE Tech",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KLE Tech",
+    "to": "KIMS",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "KIMS Hospital",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KIMS Hospital",
+    "to": "Vidyanagar",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Court Circle",
+    "to": "SDM Medical College",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "SDM Medical College",
+    "to": "Court Circle",
+    "transportType": "BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Hubballi Railway Station",
+    "to": "CBT Hubballi",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 20,
+    "fare": 15,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "CBT Hubballi",
+    "to": "Hubballi Railway Station",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 20,
+    "fare": 15,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "CBT Hubballi",
+    "to": "Vidyanagar",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 15,
+    "fare": 15,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "CBT Hubballi",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 15,
+    "fare": 15,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "KLE Technological University",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 5,
+    "fare": 10,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "KLE Technological University",
+    "to": "Vidyanagar",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 5,
+    "fare": 10,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "CBT Hubballi",
+    "to": "KLE Technological University",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 18,
+    "fare": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KLE Technological University",
+    "to": "CBT Hubballi",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 18,
+    "fare": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Hubballi Railway Station",
+    "to": "Vidyanagar",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 18,
+    "fare": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "Hubballi Railway Station",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 18,
+    "fare": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Hubballi Railway Station",
+    "to": "Unkal Lake",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 15,
+    "fare": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Unkal Lake",
+    "to": "Hubballi Railway Station",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 15,
+    "fare": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Hubballi Railway Station",
+    "to": "Hubballi Airport",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 25,
+    "fare": 20,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Hubballi Airport",
+    "to": "Hubballi Railway Station",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 25,
+    "fare": 20,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "CBT Hubballi",
+    "to": "Unkal Lake",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Unkal Lake",
+    "to": "CBT Hubballi",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Unkal Lake",
+    "to": "Hubballi Airport",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 15,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Hubballi Airport",
+    "to": "Unkal Lake",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 15,
+    "fare": 12,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "Hubballi Airport",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 20,
+    "fare": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Hubballi Airport",
+    "to": "Vidyanagar",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 20,
+    "fare": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Navanagar",
+    "to": "Unkal Lake",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Unkal Lake",
+    "to": "Navanagar",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Navanagar",
+    "to": "Hubballi Airport",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Hubballi Airport",
+    "to": "Navanagar",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Gokul Road",
+    "to": "Hubballi Railway Station",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 15,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Hubballi Railway Station",
+    "to": "Gokul Road",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 15,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Gokul Road",
+    "to": "Vidyanagar",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "Gokul Road",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Gokul Road",
+    "to": "KLE Technological University",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 15,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KLE Technological University",
+    "to": "Gokul Road",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 15,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Court Circle",
+    "to": "Jubilee Circle",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 8,
+    "fare": 5,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Jubilee Circle",
+    "to": "Court Circle",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 8,
+    "fare": 5,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Court Circle",
+    "to": "Dharwad New Bus Stand",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Dharwad New Bus Stand",
+    "to": "Court Circle",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Court Circle",
+    "to": "SDM Medical College",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "SDM Medical College",
+    "to": "Court Circle",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Jubilee Circle",
+    "to": "Dharwad New Bus Stand",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 8,
+    "fare": 5,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Dharwad New Bus Stand",
+    "to": "Jubilee Circle",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 8,
+    "fare": 5,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Jubilee Circle",
+    "to": "SDM Medical College",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "SDM Medical College",
+    "to": "Jubilee Circle",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Dharwad Railway Station",
+    "to": "Dharwad New Bus Stand",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Dharwad New Bus Stand",
+    "to": "Dharwad Railway Station",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Dharwad Railway Station",
+    "to": "Court Circle",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Court Circle",
+    "to": "Dharwad Railway Station",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Dharwad Railway Station",
+    "to": "Jubilee Circle",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Jubilee Circle",
+    "to": "Dharwad Railway Station",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Hubballi Airport",
+    "to": "Dharwad New Bus Stand",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 40,
+    "fare": 25,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Dharwad New Bus Stand",
+    "to": "Hubballi Airport",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 40,
+    "fare": 25,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Hubballi Airport",
+    "to": "KLE Technological University",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 20,
+    "fare": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KLE Technological University",
+    "to": "Hubballi Airport",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 20,
+    "fare": 15,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "U Mall",
+    "to": "Vidyanagar",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "U Mall",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "U Mall",
+    "to": "Hubballi Railway Station",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 15,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Hubballi Railway Station",
+    "to": "U Mall",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 15,
+    "fare": 10,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KIMS Hospital",
+    "to": "Vidyanagar",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 5,
+    "fare": 5,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Vidyanagar",
+    "to": "KIMS Hospital",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 5,
+    "fare": 5,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KIMS Hospital",
+    "to": "KLE Technological University",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 8,
+    "fare": 6,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KLE Technological University",
+    "to": "KIMS Hospital",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 8,
+    "fare": 6,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Shakti Colony",
+    "to": "KLE Tech",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "KLE Tech",
+    "to": "Shakti Colony",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 8,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Devangpeth",
+    "to": "Vijay Nagar",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 5,
+    "fare": 5,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Vijay Nagar",
+    "to": "Devangpeth",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 5,
+    "fare": 5,
+    "verificationLevel": "COMMUNITY_ESTIMATED"
+  },
+  {
+    "from": "Gokul Road Bus Stand",
+    "to": "Hosur Cross",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 20,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Hosur Cross",
+    "to": "Gokul Road Bus Stand",
+    "transportType": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 20,
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "from": "Hubballi Railway Station",
+    "to": "Station Road Market",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Station Road Market",
+    "to": "Hubballi Railway Station",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Hubballi Railway Station",
+    "to": "Lamington Road",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 7,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Lamington Road",
+    "to": "Hubballi Railway Station",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 7,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "CBT Hubballi",
+    "to": "Gadaga Road",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 5,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Gadaga Road",
+    "to": "CBT Hubballi",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 5,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "CBT Hubballi",
+    "to": "APMC Market",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 8,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "APMC Market",
+    "to": "CBT Hubballi",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 8,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Vidyanagar Bus Stop",
+    "to": "KLE Technological University",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 5,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KLE Technological University",
+    "to": "Vidyanagar Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 5,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Vidyanagar Bus Stop",
+    "to": "BVB Campus",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "BVB Campus",
+    "to": "Vidyanagar Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Vidyanagar Bus Stop",
+    "to": "U Mall",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "U Mall",
+    "to": "Vidyanagar Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KIMS Hospital Bus Stop",
+    "to": "KIMS Hospital",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 2,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KIMS Hospital",
+    "to": "KIMS Hospital Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 2,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KIMS Hospital Bus Stop",
+    "to": "Vidyanagar Residential",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Vidyanagar Residential",
+    "to": "KIMS Hospital Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Unkal Lake BRTS",
+    "to": "Unkal Lake",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 2,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Unkal Lake",
+    "to": "Unkal Lake BRTS",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 2,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Unkal Lake BRTS",
+    "to": "Chandramouleshwara Temple",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 7,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Chandramouleshwara Temple",
+    "to": "Unkal Lake BRTS",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 7,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Unkal Lake BRTS",
+    "to": "Indira Gandhi Glass House",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 8,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Indira Gandhi Glass House",
+    "to": "Unkal Lake BRTS",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 8,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Court Circle BRTS",
+    "to": "Court Circle",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 1,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Court Circle",
+    "to": "Court Circle BRTS",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 1,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Court Circle BRTS",
+    "to": "Camp Area",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 5,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Camp Area",
+    "to": "Court Circle BRTS",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 5,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Court Circle BRTS",
+    "to": "Deshpande Nagar",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 7,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Deshpande Nagar",
+    "to": "Court Circle BRTS",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 7,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Jubilee Circle BRTS",
+    "to": "Jubilee Circle",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 1,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Jubilee Circle",
+    "to": "Jubilee Circle BRTS",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 1,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Jubilee Circle BRTS",
+    "to": "Dharwad New Bus Stand",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Dharwad New Bus Stand",
+    "to": "Jubilee Circle BRTS",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Jubilee Circle BRTS",
+    "to": "RD Street Market",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "RD Street Market",
+    "to": "Jubilee Circle BRTS",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Dharwad Railway Station",
+    "to": "Dharwad Old Bus Stand",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 5,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Dharwad Old Bus Stand",
+    "to": "Dharwad Railway Station",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 5,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Dharwad Railway Station",
+    "to": "Kuvempu Nagar",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 8,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Kuvempu Nagar",
+    "to": "Dharwad Railway Station",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 8,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "SDM Medical College Bus Stop",
+    "to": "SDM Medical College",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "SDM Medical College",
+    "to": "SDM Medical College Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "SDM Medical College Bus Stop",
+    "to": "SDM Hospital",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 2,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "SDM Hospital",
+    "to": "SDM Medical College Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 2,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Gokul Road Bus Stop",
+    "to": "Gokul Road Market",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 2,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Gokul Road Market",
+    "to": "Gokul Road Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 2,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Gokul Road Bus Stop",
+    "to": "Bellehulli",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 5,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Bellehulli",
+    "to": "Gokul Road Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 5,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Navanagar Bus Stop",
+    "to": "Navanagar Residential",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 5,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Navanagar Residential",
+    "to": "Navanagar Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 5,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Airport Bus Stop",
+    "to": "Hubballi Airport Terminal",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 7,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Hubballi Airport Terminal",
+    "to": "Airport Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 7,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Airport Bus Stop",
+    "to": "Rajiv Nagar",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Rajiv Nagar",
+    "to": "Airport Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KLE Tech Bus Stop",
+    "to": "KLE Campus Main Gate",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 2,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KLE Campus Main Gate",
+    "to": "KLE Tech Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 2,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KLE Tech Bus Stop",
+    "to": "KLE Hostel Area",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KLE Hostel Area",
+    "to": "KLE Tech Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "APMC 3rd Gate Bus Stop",
+    "to": "APMC Market",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "APMC Market",
+    "to": "APMC 3rd Gate Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Navanagar BRTS",
+    "to": "Navanagar Market",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Navanagar Market",
+    "to": "Navanagar BRTS",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Vijay Nagar Bus Stop",
+    "to": "Vijay Nagar Residential",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Vijay Nagar Residential",
+    "to": "Vijay Nagar Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Vijay Nagar Bus Stop",
+    "to": "Devangpeth",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 5,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Devangpeth",
+    "to": "Vijay Nagar Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 5,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Shakti Colony Bus Stop",
+    "to": "Shakti Colony Residential",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Shakti Colony Residential",
+    "to": "Shakti Colony Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Kengeri Bus Stop",
+    "to": "Kengeri Residential",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Kengeri Residential",
+    "to": "Kengeri Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Keshawapur Bus Stop",
+    "to": "Keshawapur Residential",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Keshawapur Residential",
+    "to": "Keshawapur Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Gopankoppa Bus Stop",
+    "to": "Gopankoppa Residential",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Gopankoppa Residential",
+    "to": "Gopankoppa Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Deen Bandhu Colony Bus Stop",
+    "to": "Deen Bandhu Colony",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Deen Bandhu Colony",
+    "to": "Deen Bandhu Colony Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Ashok Nagar Bus Stop",
+    "to": "Ashok Nagar Residential",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Ashok Nagar Residential",
+    "to": "Ashok Nagar Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Bhavaninagar Bus Stop",
+    "to": "Bhavaninagar Residential",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Bhavaninagar Residential",
+    "to": "Bhavaninagar Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Railway Colony Bus Stop",
+    "to": "Railway Colony",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Railway Colony",
+    "to": "Railway Colony Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Gandhinagar Hubli Bus Stop",
+    "to": "Gandhinagar Hubli",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Gandhinagar Hubli",
+    "to": "Gandhinagar Hubli Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 4,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "K.R. Nagar Bus Stop",
+    "to": "K.R. Nagar Residential",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "K.R. Nagar Residential",
+    "to": "K.R. Nagar Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KHB Colony Bus Stop",
+    "to": "KHB Colony",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "KHB Colony",
+    "to": "KHB Colony Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Bendigeri Bus Stop",
+    "to": "Bendigeri Residential",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Bendigeri Residential",
+    "to": "Bendigeri Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Sadinanda Nagar Bus Stop",
+    "to": "Sadinanda Nagar",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Sadinanda Nagar",
+    "to": "Sadinanda Nagar Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Raghavendra Nagar Bus Stop",
+    "to": "Raghavendra Nagar",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Raghavendra Nagar",
+    "to": "Raghavendra Nagar Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Rameshwar Nagar Bus Stop",
+    "to": "Rameshwar Nagar",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Rameshwar Nagar",
+    "to": "Rameshwar Nagar Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Sri Krishna Nagar Bus Stop",
+    "to": "Sri Krishna Nagar",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Sri Krishna Nagar",
+    "to": "Sri Krishna Nagar Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Ramakrishna Nagar Bus Stop",
+    "to": "Ramakrishna Nagar",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "from": "Ramakrishna Nagar",
+    "to": "Ramakrishna Nagar Bus Stop",
+    "transportType": "WALK",
+    "distanceKm": 0.4,
+    "durationMinutes": 3,
+    "fare": 0,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  }
+]

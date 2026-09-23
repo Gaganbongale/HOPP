@@ -1,0 +1,1279 @@
+[
+  {
+    "code": "AUTO_HUBBALLI_RAILWAY_STATION_CBT_HUBBALLI",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "CBT_HUBBALLI",
+    "amount": {
+      "min": 80,
+      "average": 120,
+      "max": 150,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_HUBBALLI_RAILWAY_STATION_VIDYANAGAR",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "VIDYANAGAR",
+    "amount": {
+      "min": 100,
+      "average": 150,
+      "max": 200,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_HUBBALLI_RAILWAY_STATION_KLE_TECH",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "KLE_TECH",
+    "amount": {
+      "min": 120,
+      "average": 180,
+      "max": 250,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_HUBBALLI_RAILWAY_STATION_UNKAL_LAKE",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "UNKAL_LAKE",
+    "amount": {
+      "min": 100,
+      "average": 150,
+      "max": 200,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_HUBBALLI_RAILWAY_STATION_HUBBALLI_AIRPORT",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "HUBBALLI_AIRPORT",
+    "amount": {
+      "min": 150,
+      "average": 200,
+      "max": 300,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_CBT_HUBBALLI_VIDYANAGAR",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "VIDYANAGAR",
+    "amount": {
+      "min": 80,
+      "average": 120,
+      "max": 150,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_CBT_HUBBALLI_KLE_TECH",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "KLE_TECH",
+    "amount": {
+      "min": 80,
+      "average": 120,
+      "max": 150,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_CBT_HUBBALLI_DHARWAD_NEW_BUS_STAND",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "amount": {
+      "min": 150,
+      "average": 250,
+      "max": 350,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_CBT_HUBBALLI_UNKAL_LAKE",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "UNKAL_LAKE",
+    "amount": {
+      "min": 60,
+      "average": 100,
+      "max": 150,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_VIDYANAGAR_KLE_TECH",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "KLE_TECH",
+    "amount": {
+      "min": 30,
+      "average": 50,
+      "max": 70,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_VIDYANAGAR_HUBBALLI_AIRPORT",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "HUBBALLI_AIRPORT",
+    "amount": {
+      "min": 100,
+      "average": 150,
+      "max": 200,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_VIDYANAGAR_DHARWAD_RAILWAY_STATION",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "DHARWAD_RAILWAY_STATION",
+    "amount": {
+      "min": 150,
+      "average": 250,
+      "max": 350,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_UNKAL_LAKE_HUBBALLI_AIRPORT",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "HUBBALLI_AIRPORT",
+    "amount": {
+      "min": 80,
+      "average": 120,
+      "max": 180,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_UNKAL_LAKE_DHARWAD_NEW_BUS_STAND",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "amount": {
+      "min": 100,
+      "average": 180,
+      "max": 250,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_UNKAL_LAKE_COURT_CIRCLE",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "COURT_CIRCLE",
+    "amount": {
+      "min": 80,
+      "average": 120,
+      "max": 180,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_GOKUL_ROAD_HUBBALLI_RAILWAY_STATION",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "GOKUL_ROAD",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "amount": {
+      "min": 60,
+      "average": 100,
+      "max": 150,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_GOKUL_ROAD_VIDYANAGAR",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "GOKUL_ROAD",
+    "toStopCode": "VIDYANAGAR",
+    "amount": {
+      "min": 50,
+      "average": 80,
+      "max": 120,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_GOKUL_ROAD_KLE_TECH",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "GOKUL_ROAD",
+    "toStopCode": "KLE_TECH",
+    "amount": {
+      "min": 60,
+      "average": 100,
+      "max": 150,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_NAVANAGAR_UNKAL_LAKE",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "UNKAL_LAKE",
+    "amount": {
+      "min": 50,
+      "average": 80,
+      "max": 120,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_NAVANAGAR_HUBBALLI_AIRPORT",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "HUBBALLI_AIRPORT",
+    "amount": {
+      "min": 60,
+      "average": 100,
+      "max": 150,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_COURT_CIRCLE_JUBILEE_CIRCLE",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "COURT_CIRCLE",
+    "toStopCode": "JUBILEE_CIRCLE",
+    "amount": {
+      "min": 30,
+      "average": 50,
+      "max": 80,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_COURT_CIRCLE_DHARWAD_NEW_BUS_STAND",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "COURT_CIRCLE",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "amount": {
+      "min": 40,
+      "average": 60,
+      "max": 100,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_COURT_CIRCLE_SDM_MEDICAL_COLLEGE",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "COURT_CIRCLE",
+    "toStopCode": "SDM_MEDICAL_COLLEGE",
+    "amount": {
+      "min": 50,
+      "average": 80,
+      "max": 120,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_JUBILEE_CIRCLE_DHARWAD_NEW_BUS_STAND",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "JUBILEE_CIRCLE",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "amount": {
+      "min": 30,
+      "average": 50,
+      "max": 80,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_JUBILEE_CIRCLE_SDM_MEDICAL_COLLEGE",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "JUBILEE_CIRCLE",
+    "toStopCode": "SDM_MEDICAL_COLLEGE",
+    "amount": {
+      "min": 40,
+      "average": 60,
+      "max": 100,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_DHARWAD_RAILWAY_STATION_DHARWAD_NEW_BUS_STAND",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "DHARWAD_RAILWAY_STATION",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "amount": {
+      "min": 40,
+      "average": 60,
+      "max": 100,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_DHARWAD_RAILWAY_STATION_COURT_CIRCLE",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "DHARWAD_RAILWAY_STATION",
+    "toStopCode": "COURT_CIRCLE",
+    "amount": {
+      "min": 50,
+      "average": 80,
+      "max": 120,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_DHARWAD_RAILWAY_STATION_JUBILEE_CIRCLE",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "DHARWAD_RAILWAY_STATION",
+    "toStopCode": "JUBILEE_CIRCLE",
+    "amount": {
+      "min": 50,
+      "average": 80,
+      "max": 120,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_DHARWAD_RAILWAY_STATION_SDM_MEDICAL_COLLEGE",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "DHARWAD_RAILWAY_STATION",
+    "toStopCode": "SDM_MEDICAL_COLLEGE",
+    "amount": {
+      "min": 60,
+      "average": 100,
+      "max": 150,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_HUBBALLI_AIRPORT_DHARWAD_NEW_BUS_STAND",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "HUBBALLI_AIRPORT",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "amount": {
+      "min": 200,
+      "average": 300,
+      "max": 450,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_HUBBALLI_AIRPORT_KLE_TECH",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "HUBBALLI_AIRPORT",
+    "toStopCode": "KLE_TECH",
+    "amount": {
+      "min": 120,
+      "average": 180,
+      "max": 250,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_HUBBALLI_AIRPORT_VIDYANAGAR",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "HUBBALLI_AIRPORT",
+    "toStopCode": "VIDYANAGAR",
+    "amount": {
+      "min": 120,
+      "average": 180,
+      "max": 250,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_HUBBALLI_AIRPORT_CBT_HUBBALLI",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "HUBBALLI_AIRPORT",
+    "toStopCode": "CBT_HUBBALLI",
+    "amount": {
+      "min": 100,
+      "average": 150,
+      "max": 220,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_HUBBALLI_AIRPORT_HUBBALLI_RAILWAY_STATION",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "HUBBALLI_AIRPORT",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "amount": {
+      "min": 150,
+      "average": 200,
+      "max": 300,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_U_MALL_VIDYANAGAR",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "U_MALL",
+    "toStopCode": "VIDYANAGAR",
+    "amount": {
+      "min": 50,
+      "average": 80,
+      "max": 120,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_U_MALL_HUBBALLI_RAILWAY_STATION",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "U_MALL",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "amount": {
+      "min": 60,
+      "average": 100,
+      "max": 150,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_U_MALL_KLE_TECH",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "U_MALL",
+    "toStopCode": "KLE_TECH",
+    "amount": {
+      "min": 60,
+      "average": 100,
+      "max": 150,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_KIMS_HOSPITAL_VIDYANAGAR",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "KIMS_HOSPITAL",
+    "toStopCode": "VIDYANAGAR",
+    "amount": {
+      "min": 30,
+      "average": 50,
+      "max": 70,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_KIMS_HOSPITAL_KLE_TECH",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "KIMS_HOSPITAL",
+    "toStopCode": "KLE_TECH",
+    "amount": {
+      "min": 40,
+      "average": 60,
+      "max": 80,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_KIMS_HOSPITAL_HUBBALLI_RAILWAY_STATION",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "KIMS_HOSPITAL",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "amount": {
+      "min": 100,
+      "average": 150,
+      "max": 200,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_VIDYANAGAR_HUBBALLI_RAILWAY_STATION",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "amount": {
+      "min": 100,
+      "average": 150,
+      "max": 200,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_VIDYANAGAR_UNKAL_LAKE",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "UNKAL_LAKE",
+    "amount": {
+      "min": 50,
+      "average": 80,
+      "max": 120,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_VIDYANAGAR_GOKUL_ROAD",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "GOKUL_ROAD",
+    "amount": {
+      "min": 50,
+      "average": 80,
+      "max": 120,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_VIDYANAGAR_DHARWAD_NEW_BUS_STAND",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "amount": {
+      "min": 150,
+      "average": 250,
+      "max": 350,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_KLE_TECH_DHARWAD_NEW_BUS_STAND",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "amount": {
+      "min": 180,
+      "average": 280,
+      "max": 400,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_KLE_TECH_HUBBALLI_RAILWAY_STATION",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "amount": {
+      "min": 120,
+      "average": 180,
+      "max": 250,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_KLE_TECH_UNKAL_LAKE",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "UNKAL_LAKE",
+    "amount": {
+      "min": 60,
+      "average": 100,
+      "max": 150,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_KLE_TECH_GOKUL_ROAD",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "GOKUL_ROAD",
+    "amount": {
+      "min": 60,
+      "average": 100,
+      "max": 150,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_KLE_TECH_CBT_HUBBALLI",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "CBT_HUBBALLI",
+    "amount": {
+      "min": 80,
+      "average": 120,
+      "max": 150,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "AUTO_SDM_MEDICAL_COLLEGE_DHARWAD_NEW_BUS_STAND",
+    "mode": "AUTO_RICKSHAW",
+    "ruleType": "STOP_PAIR",
+    "operatorCode": "LOCAL_AUTO",
+    "fromStopCode": "SDM_MEDICAL_COLLEGE",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "amount": {
+      "min": 50,
+      "average": 80,
+      "max": 120,
+      "currency": "INR"
+    },
+    "notes": [
+      "Community-reported estimate; verify at time of travel"
+    ]
+  },
+  {
+    "code": "NWKRTC_SHORT_1_3KM",
+    "operatorCode": "NWKRTC",
+    "mode": "CITY_BUS",
+    "ruleType": "DISTANCE_BAND",
+    "distanceRangeKm": {
+      "min": 1,
+      "max": 3
+    },
+    "amount": {
+      "min": 12,
+      "average": null,
+      "max": 15,
+      "currency": "INR"
+    },
+    "validFrom": "2025-01-01"
+  },
+  {
+    "code": "NWKRTC_MEDIUM_4_8KM",
+    "operatorCode": "NWKRTC",
+    "mode": "CITY_BUS",
+    "ruleType": "DISTANCE_BAND",
+    "distanceRangeKm": {
+      "min": 4,
+      "max": 8
+    },
+    "amount": {
+      "min": 18,
+      "average": null,
+      "max": 20,
+      "currency": "INR"
+    },
+    "validFrom": "2025-01-01"
+  },
+  {
+    "code": "NWKRTC_LONG_9_15KM",
+    "operatorCode": "NWKRTC",
+    "mode": "CITY_BUS",
+    "ruleType": "DISTANCE_BAND",
+    "distanceRangeKm": {
+      "min": 9,
+      "max": 15
+    },
+    "amount": {
+      "min": 25,
+      "average": null,
+      "max": 28,
+      "currency": "INR"
+    },
+    "validFrom": "2025-01-01"
+  },
+  {
+    "code": "HDBRTS_FULL_CORRIDOR",
+    "operatorCode": "HDBRTS",
+    "mode": "BRTS",
+    "ruleType": "DISTANCE_BAND",
+    "distanceRangeKm": {
+      "min": 13,
+      "max": 22.25
+    },
+    "amount": {
+      "min": 25,
+      "average": null,
+      "max": 30,
+      "currency": "INR"
+    }
+  },
+  {
+    "code": "HDBRTS_SMART_CARD",
+    "operatorCode": "HDBRTS",
+    "mode": "BRTS",
+    "ruleType": "PASS",
+    "amount": {
+      "min": 25,
+      "average": 25,
+      "max": 25,
+      "currency": "INR"
+    },
+    "notes": [
+      "One-time RFID smart card fee"
+    ]
+  },
+  {
+    "code": "HDBRTS_MONTHLY_PASS",
+    "operatorCode": "HDBRTS",
+    "mode": "BRTS",
+    "ruleType": "PASS",
+    "amount": {
+      "min": 750,
+      "average": 750,
+      "max": 750,
+      "currency": "INR"
+    },
+    "notes": [
+      "Unlimited rides monthly pass"
+    ]
+  },
+  {
+    "code": "SAMPARKA_FS-001",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "ruleType": "INTEGRATED",
+    "fromStopCode": "SUTAGATTI",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "amount": {
+      "min": 25,
+      "average": 25,
+      "max": 25,
+      "currency": "INR"
+    },
+    "componentFares": [
+      28
+    ],
+    "savings": 3,
+    "notes": [
+      "Navanagar/Sutagatti to Dharwad New Bus Stand",
+      "Original city bus + BRTS combined fare: INR 28"
+    ]
+  },
+  {
+    "code": "SAMPARKA_FS-002",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "ruleType": "INTEGRATED",
+    "fromStopCode": "SUTAGATTI",
+    "toStopCode": "JUBILEE_CIRCLE",
+    "amount": {
+      "min": 24,
+      "average": 24,
+      "max": 24,
+      "currency": "INR"
+    },
+    "componentFares": [
+      27
+    ],
+    "savings": 4,
+    "notes": [
+      "Navanagar/Sutagatti to Dharwad BRTS Terminal/Jubilee Circle",
+      "Original city bus + BRTS combined fare: INR 27"
+    ]
+  },
+  {
+    "code": "SAMPARKA_FS-003",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "ruleType": "INTEGRATED",
+    "fromStopCode": "SUTAGATTI",
+    "toStopCode": "GANDHINAGAR_DHARWAD",
+    "amount": {
+      "min": 20,
+      "average": 20,
+      "max": 20,
+      "currency": "INR"
+    },
+    "componentFares": [
+      24
+    ],
+    "savings": 4,
+    "notes": [
+      "Navanagar/Sutagatti to Gandhinagar Dharwad",
+      "Original city bus + BRTS combined fare: INR 24"
+    ]
+  },
+  {
+    "code": "SAMPARKA_FS-004",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "ruleType": "INTEGRATED",
+    "fromStopCode": "SUTAGATTI",
+    "toStopCode": "SDM_MEDICAL_COLLEGE",
+    "amount": {
+      "min": 17,
+      "average": 17,
+      "max": 17,
+      "currency": "INR"
+    },
+    "componentFares": [
+      21
+    ],
+    "savings": 4,
+    "notes": [
+      "Navanagar/Sutagatti to SDM Hospital",
+      "Original city bus + BRTS combined fare: INR 21"
+    ]
+  },
+  {
+    "code": "SAMPARKA_FS-005",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "ruleType": "INTEGRATED",
+    "fromStopCode": "SUTAGATTI",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "amount": {
+      "min": 22,
+      "average": 22,
+      "max": 22,
+      "currency": "INR"
+    },
+    "componentFares": [
+      26
+    ],
+    "savings": 4,
+    "notes": [
+      "Navanagar/Sutagatti to CBT Hubballi/Railway Station",
+      "Original city bus + BRTS combined fare: INR 26"
+    ]
+  },
+  {
+    "code": "SAMPARKA_FS-006",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "ruleType": "INTEGRATED",
+    "fromStopCode": "SUTAGATTI",
+    "toStopCode": "HUBLI_OLD_BUS_STAND",
+    "amount": {
+      "min": 20,
+      "average": 20,
+      "max": 20,
+      "currency": "INR"
+    },
+    "componentFares": [
+      24
+    ],
+    "savings": 4,
+    "notes": [
+      "Navanagar/Sutagatti to Hubli Old Bus Stand/HDMC",
+      "Original city bus + BRTS combined fare: INR 24"
+    ]
+  },
+  {
+    "code": "SAMPARKA_FS-007",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "ruleType": "INTEGRATED",
+    "fromStopCode": "SUTAGATTI",
+    "toStopCode": "KLE_TECH",
+    "amount": {
+      "min": 18,
+      "average": 18,
+      "max": 18,
+      "currency": "INR"
+    },
+    "componentFares": [
+      22
+    ],
+    "savings": 4,
+    "notes": [
+      "Navanagar/Sutagatti to KLE Technological University",
+      "Original city bus + BRTS combined fare: INR 22"
+    ]
+  },
+  {
+    "code": "SAMPARKA_FS-008",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "ruleType": "INTEGRATED",
+    "fromStopCode": "SHAKTI_COLONY",
+    "toStopCode": "UNKAL_LAKE",
+    "amount": {
+      "min": 16,
+      "average": 16,
+      "max": 16,
+      "currency": "INR"
+    },
+    "componentFares": [
+      20
+    ],
+    "savings": 4,
+    "notes": [
+      "Shakti Colony to Unkal Lake BRTS via KLE Tech",
+      "Original city bus + BRTS combined fare: INR 20"
+    ]
+  },
+  {
+    "code": "SAMPARKA_FS-009",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "ruleType": "INTEGRATED",
+    "fromStopCode": "SHAKTI_COLONY",
+    "toStopCode": "CBT_HUBBALLI",
+    "amount": {
+      "min": 14,
+      "average": 14,
+      "max": 14,
+      "currency": "INR"
+    },
+    "componentFares": [
+      18
+    ],
+    "savings": 4,
+    "notes": [
+      "Shakti Colony to CBT Hubballi via Vidyanagar",
+      "Original city bus + BRTS combined fare: INR 18"
+    ]
+  },
+  {
+    "code": "SAMPARKA_FS-010",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "ruleType": "INTEGRATED",
+    "fromStopCode": "DEVANGPETH",
+    "toStopCode": "CBT_HUBBALLI",
+    "amount": {
+      "min": 13,
+      "average": 13,
+      "max": 13,
+      "currency": "INR"
+    },
+    "componentFares": [
+      17
+    ],
+    "savings": 4,
+    "notes": [
+      "Devangpeth to CBT via Vijay Nagar and HDMC",
+      "Original city bus + BRTS combined fare: INR 17"
+    ]
+  },
+  {
+    "code": "SAMPARKA_FS-011",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "ruleType": "INTEGRATED",
+    "fromStopCode": "DEVANGPETH",
+    "toStopCode": "KIMS_HOSPITAL",
+    "amount": {
+      "min": 12,
+      "average": 12,
+      "max": 12,
+      "currency": "INR"
+    },
+    "componentFares": [
+      16
+    ],
+    "savings": 4,
+    "notes": [
+      "Devangpeth to KIMS via Vijay Nagar",
+      "Original city bus + BRTS combined fare: INR 16"
+    ]
+  },
+  {
+    "code": "SAMPARKA_FS-012",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "ruleType": "INTEGRATED",
+    "fromStopCode": "GOPANKOPPA",
+    "toStopCode": "UNKAL_LAKE",
+    "amount": {
+      "min": 15,
+      "average": 15,
+      "max": 15,
+      "currency": "INR"
+    },
+    "componentFares": [
+      19
+    ],
+    "savings": 4,
+    "notes": [
+      "Gopankoppa to Unkal BRTS via Kengeri and Navanagar",
+      "Original city bus + BRTS combined fare: INR 19"
+    ]
+  },
+  {
+    "code": "SAMPARKA_FS-013",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "ruleType": "INTEGRATED",
+    "fromStopCode": "GOPANKOPPA",
+    "toStopCode": "CBT_HUBBALLI",
+    "amount": {
+      "min": 14,
+      "average": 14,
+      "max": 14,
+      "currency": "INR"
+    },
+    "componentFares": [
+      18
+    ],
+    "savings": 4,
+    "notes": [
+      "Gopankoppa to CBT Hubballi via Keshawapur",
+      "Original city bus + BRTS combined fare: INR 18"
+    ]
+  },
+  {
+    "code": "SAMPARKA_FS-014",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "ruleType": "INTEGRATED",
+    "fromStopCode": "KENGERI",
+    "toStopCode": "CBT_HUBBALLI",
+    "amount": {
+      "min": 13,
+      "average": 13,
+      "max": 13,
+      "currency": "INR"
+    },
+    "componentFares": [
+      17
+    ],
+    "savings": 4,
+    "notes": [
+      "Kengeri to CBT via KLE Tech and Vidyanagar",
+      "Original city bus + BRTS combined fare: INR 17"
+    ]
+  },
+  {
+    "code": "SAMPARKA_FS-015",
+    "operatorCode": "HDBRTS",
+    "mode": "FEEDER_BUS",
+    "ruleType": "INTEGRATED",
+    "fromStopCode": "KESHAWAPUR",
+    "toStopCode": "UNKAL_LAKE",
+    "amount": {
+      "min": 14,
+      "average": 14,
+      "max": 14,
+      "currency": "INR"
+    },
+    "componentFares": [
+      18
+    ],
+    "savings": 4,
+    "notes": [
+      "Keshawapur to Unkal Lake BRTS via Navanagar",
+      "Original city bus + BRTS combined fare: INR 18"
+    ]
+  }
+]

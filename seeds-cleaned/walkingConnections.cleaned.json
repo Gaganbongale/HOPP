@@ -1,0 +1,402 @@
+[
+  {
+    "fromStop": "Hubballi Railway Station",
+    "toLandmark": "Station Road Market",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 4,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Hubballi Railway Station",
+    "toLandmark": "Lamington Road",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 7,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "CBT Hubballi",
+    "toLandmark": "Gadaga Road",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 5,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "CBT Hubballi",
+    "toLandmark": "APMC Market",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 8,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Vidyanagar Bus Stop",
+    "toLandmark": "KLE Technological University",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 5,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Vidyanagar Bus Stop",
+    "toLandmark": "BVB Campus",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Vidyanagar Bus Stop",
+    "toLandmark": "U Mall",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 4,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "KIMS Hospital Bus Stop",
+    "toLandmark": "KIMS Hospital",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 2,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "KIMS Hospital Bus Stop",
+    "toLandmark": "Vidyanagar Residential",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 4,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Unkal Lake BRTS",
+    "toLandmark": "Unkal Lake",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 2,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Unkal Lake BRTS",
+    "toLandmark": "Chandramouleshwara Temple",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 7,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Unkal Lake BRTS",
+    "toLandmark": "Indira Gandhi Glass House",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 8,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Court Circle BRTS",
+    "toLandmark": "Court Circle",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 1,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Court Circle BRTS",
+    "toLandmark": "Camp Area",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 5,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Court Circle BRTS",
+    "toLandmark": "Deshpande Nagar",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 7,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Jubilee Circle BRTS",
+    "toLandmark": "Jubilee Circle",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 1,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Jubilee Circle BRTS",
+    "toLandmark": "Dharwad New Bus Stand",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Jubilee Circle BRTS",
+    "toLandmark": "RD Street Market",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 4,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Dharwad Railway Station",
+    "toLandmark": "Dharwad Old Bus Stand",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 5,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Dharwad Railway Station",
+    "toLandmark": "Kuvempu Nagar",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 8,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "SDM Medical College Bus Stop",
+    "toLandmark": "SDM Medical College",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "SDM Medical College Bus Stop",
+    "toLandmark": "SDM Hospital",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 2,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Gokul Road Bus Stop",
+    "toLandmark": "Gokul Road Market",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 2,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Gokul Road Bus Stop",
+    "toLandmark": "Bellehulli",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 5,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Navanagar Bus Stop",
+    "toLandmark": "Navanagar Residential",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 5,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Airport Bus Stop",
+    "toLandmark": "Hubballi Airport Terminal",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 7,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Airport Bus Stop",
+    "toLandmark": "Rajiv Nagar",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 4,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "KLE Tech Bus Stop",
+    "toLandmark": "KLE Campus Main Gate",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 2,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "KLE Tech Bus Stop",
+    "toLandmark": "KLE Hostel Area",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "APMC 3rd Gate Bus Stop",
+    "toLandmark": "APMC Market",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 4,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Navanagar BRTS",
+    "toLandmark": "Navanagar Market",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 4,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Vijay Nagar Bus Stop",
+    "toLandmark": "Vijay Nagar Residential",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Vijay Nagar Bus Stop",
+    "toLandmark": "Devangpeth",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 5,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Shakti Colony Bus Stop",
+    "toLandmark": "Shakti Colony Residential",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Kengeri Bus Stop",
+    "toLandmark": "Kengeri Residential",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 4,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Keshawapur Bus Stop",
+    "toLandmark": "Keshawapur Residential",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Gopankoppa Bus Stop",
+    "toLandmark": "Gopankoppa Residential",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Deen Bandhu Colony Bus Stop",
+    "toLandmark": "Deen Bandhu Colony",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Ashok Nagar Bus Stop",
+    "toLandmark": "Ashok Nagar Residential",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Bhavaninagar Bus Stop",
+    "toLandmark": "Bhavaninagar Residential",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Railway Colony Bus Stop",
+    "toLandmark": "Railway Colony",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Gandhinagar Hubli Bus Stop",
+    "toLandmark": "Gandhinagar Hubli",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 4,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "K.R. Nagar Bus Stop",
+    "toLandmark": "K.R. Nagar Residential",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "KHB Colony Bus Stop",
+    "toLandmark": "KHB Colony",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Bendigeri Bus Stop",
+    "toLandmark": "Bendigeri Residential",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Sadinanda Nagar Bus Stop",
+    "toLandmark": "Sadinanda Nagar",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Raghavendra Nagar Bus Stop",
+    "toLandmark": "Raghavendra Nagar",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Rameshwar Nagar Bus Stop",
+    "toLandmark": "Rameshwar Nagar",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Sri Krishna Nagar Bus Stop",
+    "toLandmark": "Sri Krishna Nagar",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "fromStop": "Ramakrishna Nagar Bus Stop",
+    "toLandmark": "Ramakrishna Nagar",
+    "transportType": "WALK",
+    "fare": 0,
+    "durationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  }
+]

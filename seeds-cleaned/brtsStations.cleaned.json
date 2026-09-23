@@ -1,0 +1,482 @@
+[
+  {
+    "code": "CBT_HUBBALLI",
+    "name": "CBT Hubballi",
+    "city": "Hubballi",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 0.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.135,
+        15.365
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "DR_B_R_AMBEDKAR_CIRCLE",
+    "name": "Dr B R Ambedkar Circle",
+    "city": "Hubballi",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 0.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.13075,
+        15.3681
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "HDMC",
+    "name": "HDMC",
+    "city": "Hubballi",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 1.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.12650000000001,
+        15.3712
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "HUBBALLI_CENTRAL_BUS_TERMINAL",
+    "name": "Hubballi Central Bus Terminal",
+    "city": "Hubballi",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 1.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.12650000000001,
+        15.3712
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "HOSUR_CROSS",
+    "name": "Hosur Cross",
+    "city": "Hubballi",
+    "status": "INACTIVE",
+    "corridorDistanceKm": 1.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.12225000000001,
+        15.3743
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "HOSUR_REGIONAL_TERMINAL",
+    "name": "Hosur Regional Terminal",
+    "city": "Hubballi",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 2.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.11800000000001,
+        15.3774
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "KIMS",
+    "name": "KIMS",
+    "city": "Hubballi",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 2.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.11375000000001,
+        15.3805
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "VIDYANAGAR",
+    "name": "Vidyanagar",
+    "city": "Hubballi",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.1095,
+        15.3836
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "BVB",
+    "name": "BVB",
+    "city": "Hubballi",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.10525,
+        15.3867
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "UNKAL_CROSS",
+    "name": "Unkal Cross",
+    "city": "Hubballi",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.101,
+        15.389800000000001
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "UNKAL_VILLAGE",
+    "name": "Unkal Village",
+    "city": "Hubballi",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.09675,
+        15.392900000000001
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "UNKAL_LAKE",
+    "name": "Unkal Lake",
+    "city": "Hubballi",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0925,
+        15.396
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "BIRIDEVARAKOPPA",
+    "name": "Biridevarakoppa",
+    "city": "Hubballi",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 5.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.08825,
+        15.3991
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "SHANTINIKETHAN",
+    "name": "Shantinikethan",
+    "city": "Hubballi",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 6.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.084,
+        15.4022
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "APMC_3RD_GATE",
+    "name": "APMC 3rd Gate",
+    "city": "Hubballi",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 6.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.07975,
+        15.4053
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "NAVANAGARA",
+    "name": "Navanagara",
+    "city": "Hubballi",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 7.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0755,
+        15.4084
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "RTO",
+    "name": "RTO",
+    "city": "Dharwad",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 7.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.07124999999999,
+        15.4115
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "ISKCON_TEMPLE",
+    "name": "ISKCON Temple",
+    "city": "Dharwad",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 8.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.067,
+        15.4146
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "RAYAPUR",
+    "name": "Rayapur",
+    "city": "Dharwad",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 8.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.06275,
+        15.4177
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "KMF",
+    "name": "KMF",
+    "city": "Dharwad",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 9.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0585,
+        15.4208
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "NAVLURU_RAILWAY_STATION",
+    "name": "Navluru Railway Station",
+    "city": "Dharwad",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 9.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.05425,
+        15.4239
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "SDM_MEDICAL_COLLEGE",
+    "name": "SDM Medical College",
+    "city": "Dharwad",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 10.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.05,
+        15.427
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "SATTUR",
+    "name": "Sattur",
+    "city": "Dharwad",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 10.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.04575,
+        15.4301
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "LAKMANAHALLI",
+    "name": "Lakmanahalli",
+    "city": "Dharwad",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 11.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0415,
+        15.4332
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "GANDHINAGAR",
+    "name": "Gandhinagar",
+    "city": "Dharwad",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 11.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.03725,
+        15.436300000000001
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "VIDYAGIRI",
+    "name": "Vidyagiri",
+    "city": "Dharwad",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 12.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.033,
+        15.439400000000001
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "TOLL_NAKA",
+    "name": "Toll Naka",
+    "city": "Dharwad",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 12.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.02875,
+        15.4425
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "HOSA_YELLAPUR_CROSS",
+    "name": "Hosa Yellapur Cross",
+    "city": "Dharwad",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 13.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.02449999999999,
+        15.4456
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "NTTF",
+    "name": "NTTF",
+    "city": "Dharwad",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 13.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.02024999999999,
+        15.4487
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "COURT_CIRCLE",
+    "name": "Court Circle",
+    "city": "Dharwad",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 14.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.01599999999999,
+        15.4518
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "JUBILEE_CIRCLE",
+    "name": "Jubilee Circle",
+    "city": "Dharwad",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 14.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.01174999999999,
+        15.4549
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "code": "DHARWAD_BRTS_TERMINAL",
+    "name": "Dharwad BRTS Terminal",
+    "city": "Dharwad",
+    "status": "ACTIVE",
+    "corridorDistanceKm": 15.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0075,
+        15.458
+      ]
+    },
+    "verificationLevel": "LOCAL_VERIFIED"
+  }
+]

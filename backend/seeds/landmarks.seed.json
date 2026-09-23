@@ -1,0 +1,647 @@
+[
+  {
+    "code": "HUBBALLI_RAILWAY_STATION",
+    "name": "Hubballi Railway Station (SSS Hubballi Jn)",
+    "aliases": [
+      "SSS Hubballi Junction",
+      "Railway Station Hubli"
+    ],
+    "categories": [
+      "TRANSPORT_HUB"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.1485,
+        15.3495
+      ]
+    },
+    "importance": "HIGH",
+    "nearbyStopCodes": [
+      "HUBBALLI_RAILWAY_STATION"
+    ]
+  },
+  {
+    "code": "DHARWAD_RAILWAY_STATION",
+    "name": "Dharwad Railway Station",
+    "aliases": [
+      "DWR"
+    ],
+    "categories": [
+      "TRANSPORT_HUB"
+    ],
+    "city": "Dharwad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.004,
+        15.441
+      ]
+    },
+    "importance": "HIGH",
+    "nearbyStopCodes": [
+      "DHARWAD_RAILWAY_STATION"
+    ]
+  },
+  {
+    "code": "CBT_HUBBALLI",
+    "name": "CBT Hubballi (Central Bus Terminal)",
+    "aliases": [
+      "CBT Hubballi",
+      "Central Bus Stand"
+    ],
+    "categories": [
+      "TRANSPORT_HUB"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.135,
+        15.365
+      ]
+    },
+    "importance": "HIGH",
+    "nearbyStopCodes": [
+      "CBT_HUBBALLI"
+    ]
+  },
+  {
+    "code": "DHARWAD_NEW_BUS_STAND",
+    "name": "Dharwad New Bus Stand",
+    "aliases": [
+      "Dharwad CBT",
+      "Dharwad BRTS Terminal"
+    ],
+    "categories": [
+      "TRANSPORT_HUB"
+    ],
+    "city": "Dharwad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0075,
+        15.458
+      ]
+    },
+    "importance": "HIGH",
+    "nearbyStopCodes": [
+      "DHARWAD_NEW_BUS_STAND"
+    ]
+  },
+  {
+    "code": "KLE_TECH",
+    "name": "KLE Technological University",
+    "aliases": [
+      "KLE Tech"
+    ],
+    "categories": [
+      "EDUCATIONAL"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.1231,
+        15.3688
+      ]
+    },
+    "importance": "HIGH",
+    "nearbyStopCodes": [
+      "KLE_TECH"
+    ]
+  },
+  {
+    "code": "BVB_CAMPUS",
+    "name": "BVB Campus (Vidyanagar)",
+    "aliases": [
+      "BVB",
+      "BVBCET"
+    ],
+    "categories": [
+      "EDUCATIONAL"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.1231,
+        15.3683
+      ]
+    },
+    "importance": "HIGH",
+    "nearbyStopCodes": [
+      "BVB_CAMPUS"
+    ]
+  },
+  {
+    "code": "KIMS_HOSPITAL",
+    "name": "KIMS Hospital Vidyanagar",
+    "aliases": [
+      "KIMS Hospital",
+      "KIMS"
+    ],
+    "categories": [
+      "HOSPITAL"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.1215,
+        15.3693
+      ]
+    },
+    "importance": "HIGH",
+    "nearbyStopCodes": [
+      "KIMS_HOSPITAL"
+    ]
+  },
+  {
+    "code": "SDM_MEDICAL_COLLEGE",
+    "name": "SDM Medical College Dharwad",
+    "aliases": [
+      "SDM Medical College",
+      "SDM Hospital"
+    ],
+    "categories": [
+      "HOSPITAL",
+      "EDUCATIONAL"
+    ],
+    "city": "Dharwad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.008,
+        15.459
+      ]
+    },
+    "importance": "HIGH",
+    "nearbyStopCodes": [
+      "SDM_MEDICAL_COLLEGE"
+    ]
+  },
+  {
+    "code": "HUBBALLI_AIRPORT",
+    "name": "Hubballi Airport (HBX)",
+    "aliases": [
+      "Hubballi Airport",
+      "HBX Airport"
+    ],
+    "categories": [
+      "TRANSPORT_HUB"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0842,
+        15.357
+      ]
+    },
+    "importance": "HIGH",
+    "nearbyStopCodes": [
+      "HUBBALLI_AIRPORT"
+    ]
+  },
+  {
+    "code": "U_MALL",
+    "name": "U Mall Hubli",
+    "aliases": [
+      "U Mall"
+    ],
+    "categories": [
+      "COMMERCIAL"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.125,
+        15.3481
+      ]
+    },
+    "importance": "MEDIUM",
+    "nearbyStopCodes": [
+      "U_MALL"
+    ]
+  },
+  {
+    "code": "VIDYANAGAR",
+    "name": "Vidyanagar",
+    "aliases": [],
+    "categories": [
+      "RESIDENTIAL",
+      "EDUCATIONAL"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.122,
+        15.368
+      ]
+    },
+    "importance": "HIGH",
+    "nearbyStopCodes": [
+      "VIDYANAGAR"
+    ]
+  },
+  {
+    "code": "UNKAL",
+    "name": "Unkal",
+    "aliases": [],
+    "categories": [
+      "RESIDENTIAL",
+      "TOURIST"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.1064,
+        15.3782
+      ]
+    },
+    "importance": "HIGH",
+    "nearbyStopCodes": [
+      "UNKAL"
+    ]
+  },
+  {
+    "code": "UNKAL_LAKE",
+    "name": "Unkal Lake",
+    "aliases": [],
+    "categories": [
+      "TOURIST",
+      "RECREATIONAL"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.1119,
+        15.3823
+      ]
+    },
+    "importance": "MEDIUM",
+    "nearbyStopCodes": [
+      "UNKAL_LAKE"
+    ]
+  },
+  {
+    "code": "GOKUL_ROAD",
+    "name": "Gokul Road",
+    "aliases": [],
+    "categories": [
+      "COMMERCIAL",
+      "RESIDENTIAL"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.115,
+        15.355
+      ]
+    },
+    "importance": "HIGH",
+    "nearbyStopCodes": [
+      "GOKUL_ROAD"
+    ]
+  },
+  {
+    "code": "NAVANAGAR",
+    "name": "Navanagar",
+    "aliases": [
+      "Navanagara"
+    ],
+    "categories": [
+      "RESIDENTIAL"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0815,
+        15.3932
+      ]
+    },
+    "importance": "MEDIUM",
+    "nearbyStopCodes": [
+      "NAVANAGAR"
+    ]
+  },
+  {
+    "code": "COURT_CIRCLE",
+    "name": "Court Circle (Dharwad)",
+    "aliases": [
+      "Court Circle"
+    ],
+    "categories": [
+      "COMMERCIAL",
+      "GOVERNMENT"
+    ],
+    "city": "Dharwad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.005,
+        15.456
+      ]
+    },
+    "importance": "HIGH",
+    "nearbyStopCodes": [
+      "COURT_CIRCLE"
+    ]
+  },
+  {
+    "code": "JUBILEE_CIRCLE",
+    "name": "Jubilee Circle (Dharwad)",
+    "aliases": [
+      "Jubilee Circle"
+    ],
+    "categories": [
+      "COMMERCIAL",
+      "TRANSPORT_HUB"
+    ],
+    "city": "Dharwad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0075,
+        15.4581
+      ]
+    },
+    "importance": "HIGH",
+    "nearbyStopCodes": [
+      "JUBILEE_CIRCLE"
+    ]
+  },
+  {
+    "code": "PC_JABIN_COLLEGE",
+    "name": "PC Jabin College Vidyanagar",
+    "aliases": [],
+    "categories": [
+      "EDUCATIONAL"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.1219,
+        15.367
+      ]
+    },
+    "importance": "MEDIUM",
+    "nearbyStopCodes": [
+      "PC_JABIN_COLLEGE"
+    ]
+  },
+  {
+    "code": "VASAN_EYE_CARE",
+    "name": "Vasan Eye Care Hospital",
+    "aliases": [],
+    "categories": [
+      "HOSPITAL"
+    ],
+    "city": "Dharwad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0045,
+        15.4555
+      ]
+    },
+    "importance": "MEDIUM",
+    "nearbyStopCodes": [
+      "VASAN_EYE_CARE"
+    ]
+  },
+  {
+    "code": "CHANDRAMAULESHWARA_TEMPLE",
+    "name": "Chandramauleshwara Temple Unkal",
+    "aliases": [],
+    "categories": [
+      "RELIGIOUS",
+      "TOURIST"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.108,
+        15.38
+      ]
+    },
+    "importance": "MEDIUM",
+    "nearbyStopCodes": [
+      "CHANDRAMAULESHWARA_TEMPLE"
+    ]
+  },
+  {
+    "code": "NRUPATUNGA_BETTA",
+    "name": "Nrupatunga Betta (Hill)",
+    "aliases": [],
+    "categories": [
+      "TOURIST"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.11,
+        15.39
+      ]
+    },
+    "importance": "MEDIUM",
+    "nearbyStopCodes": [
+      "NRUPATUNGA_BETTA"
+    ]
+  },
+  {
+    "code": "INDIRA_GANDHI_GLASS_HOUSE",
+    "name": "Indira Gandhi Glass House",
+    "aliases": [],
+    "categories": [
+      "TOURIST"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.105,
+        15.385
+      ]
+    },
+    "importance": "MEDIUM",
+    "nearbyStopCodes": [
+      "INDIRA_GANDHI_GLASS_HOUSE"
+    ]
+  },
+  {
+    "code": "KUVEMPU_NAGAR",
+    "name": "Kuvempu Nagar Dharwad",
+    "aliases": [],
+    "categories": [
+      "RESIDENTIAL"
+    ],
+    "city": "Dharwad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.002,
+        15.452
+      ]
+    },
+    "importance": "MEDIUM",
+    "nearbyStopCodes": [
+      "KUVEMPU_NAGAR"
+    ]
+  },
+  {
+    "code": "DESHPANDE_NAGAR",
+    "name": "Deshpande Nagar Hubli",
+    "aliases": [],
+    "categories": [
+      "RESIDENTIAL"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.0052,
+        15.4558
+      ]
+    },
+    "importance": "MEDIUM",
+    "nearbyStopCodes": [
+      "DESHPANDE_NAGAR"
+    ]
+  },
+  {
+    "code": "GADAGA_ROAD",
+    "name": "Gadaga Road Hubli",
+    "aliases": [],
+    "categories": [
+      "COMMERCIAL"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.13,
+        15.35
+      ]
+    },
+    "importance": "MEDIUM",
+    "nearbyStopCodes": [
+      "GADAGA_ROAD"
+    ]
+  },
+  {
+    "code": "STATION_ROAD",
+    "name": "Station Road Hubli",
+    "aliases": [],
+    "categories": [
+      "COMMERCIAL",
+      "TRANSPORT_HUB"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.149,
+        15.348
+      ]
+    },
+    "importance": "HIGH",
+    "nearbyStopCodes": [
+      "STATION_ROAD"
+    ]
+  },
+  {
+    "code": "RD_STREET",
+    "name": "RD Street Dharwad",
+    "aliases": [],
+    "categories": [
+      "COMMERCIAL",
+      "MARKET"
+    ],
+    "city": "Dharwad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.006,
+        15.457
+      ]
+    },
+    "importance": "MEDIUM",
+    "nearbyStopCodes": [
+      "RD_STREET"
+    ]
+  },
+  {
+    "code": "PUSPAGIRI",
+    "name": "Puspagiri Dharwad",
+    "aliases": [],
+    "categories": [
+      "RESIDENTIAL"
+    ],
+    "city": "Dharwad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.01,
+        15.45
+      ]
+    },
+    "importance": "LOW",
+    "nearbyStopCodes": [
+      "PUSPAGIRI"
+    ]
+  },
+  {
+    "code": "CAMP_AREA",
+    "name": "Camp Area Dharwad",
+    "aliases": [],
+    "categories": [
+      "GOVERNMENT",
+      "COMMERCIAL"
+    ],
+    "city": "Dharwad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.004,
+        15.454
+      ]
+    },
+    "importance": "MEDIUM",
+    "nearbyStopCodes": [
+      "CAMP_AREA"
+    ]
+  },
+  {
+    "code": "APMC_MARKET",
+    "name": "APMC Market Hubli",
+    "aliases": [],
+    "categories": [
+      "COMMERCIAL",
+      "MARKET"
+    ],
+    "city": "Hubballi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.138,
+        15.36
+      ]
+    },
+    "importance": "MEDIUM",
+    "nearbyStopCodes": [
+      "APMC_MARKET"
+    ]
+  }
+]

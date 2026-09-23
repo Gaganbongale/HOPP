@@ -1,0 +1,2082 @@
+[
+  {
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "CBT_HUBBALLI",
+    "mode": "CITY_BUS",
+    "distanceKm": 8,
+    "durationMinutes": 20,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "mode": "CITY_BUS",
+    "distanceKm": 8,
+    "durationMinutes": 20,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "VIDYANAGAR",
+    "mode": "CITY_BUS",
+    "distanceKm": 7,
+    "durationMinutes": 18,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "mode": "CITY_BUS",
+    "distanceKm": 7,
+    "durationMinutes": 18,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "KLE_TECH",
+    "mode": "CITY_BUS",
+    "distanceKm": 8,
+    "durationMinutes": 20,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "mode": "CITY_BUS",
+    "distanceKm": 8,
+    "durationMinutes": 20,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "UNKAL_LAKE",
+    "mode": "CITY_BUS",
+    "distanceKm": 6,
+    "durationMinutes": 15,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "mode": "CITY_BUS",
+    "distanceKm": 6,
+    "durationMinutes": 15,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "HUBBALLI_AIRPORT",
+    "mode": "CITY_BUS",
+    "distanceKm": 10,
+    "durationMinutes": 25,
+    "fare": 20,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_AIRPORT",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "mode": "CITY_BUS",
+    "distanceKm": 10,
+    "durationMinutes": 25,
+    "fare": 20,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "VIDYANAGAR",
+    "mode": "CITY_BUS",
+    "distanceKm": 5,
+    "durationMinutes": 15,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "CBT_HUBBALLI",
+    "mode": "CITY_BUS",
+    "distanceKm": 5,
+    "durationMinutes": 15,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "KLE_TECH",
+    "mode": "CITY_BUS",
+    "distanceKm": 6,
+    "durationMinutes": 18,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "CBT_HUBBALLI",
+    "mode": "CITY_BUS",
+    "distanceKm": 6,
+    "durationMinutes": 18,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "mode": "CITY_BUS",
+    "distanceKm": 15,
+    "durationMinutes": 35,
+    "fare": 25,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_NEW_BUS_STAND",
+    "toStopCode": "CBT_HUBBALLI",
+    "mode": "CITY_BUS",
+    "distanceKm": 15,
+    "durationMinutes": 35,
+    "fare": 25,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "UNKAL_LAKE",
+    "mode": "CITY_BUS",
+    "distanceKm": 4,
+    "durationMinutes": 12,
+    "fare": 8,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "CBT_HUBBALLI",
+    "mode": "CITY_BUS",
+    "distanceKm": 4,
+    "durationMinutes": 12,
+    "fare": 8,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "KLE_TECH",
+    "mode": "CITY_BUS",
+    "distanceKm": 1,
+    "durationMinutes": 5,
+    "fare": 5,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "VIDYANAGAR",
+    "mode": "CITY_BUS",
+    "distanceKm": 1,
+    "durationMinutes": 5,
+    "fare": 5,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "HUBBALLI_AIRPORT",
+    "mode": "CITY_BUS",
+    "distanceKm": 8,
+    "durationMinutes": 20,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_AIRPORT",
+    "toStopCode": "VIDYANAGAR",
+    "mode": "CITY_BUS",
+    "distanceKm": 8,
+    "durationMinutes": 20,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "DHARWAD_RAILWAY_STATION",
+    "mode": "CITY_BUS",
+    "distanceKm": 14,
+    "durationMinutes": 35,
+    "fare": 25,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_RAILWAY_STATION",
+    "toStopCode": "VIDYANAGAR",
+    "mode": "CITY_BUS",
+    "distanceKm": 14,
+    "durationMinutes": 35,
+    "fare": 25,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "HUBBALLI_AIRPORT",
+    "mode": "CITY_BUS",
+    "distanceKm": 5,
+    "durationMinutes": 15,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_AIRPORT",
+    "toStopCode": "UNKAL_LAKE",
+    "mode": "CITY_BUS",
+    "distanceKm": 5,
+    "durationMinutes": 15,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "mode": "CITY_BUS",
+    "distanceKm": 12,
+    "durationMinutes": 30,
+    "fare": 20,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_NEW_BUS_STAND",
+    "toStopCode": "UNKAL_LAKE",
+    "mode": "CITY_BUS",
+    "distanceKm": 12,
+    "durationMinutes": 30,
+    "fare": 20,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "COURT_CIRCLE",
+    "mode": "CITY_BUS",
+    "distanceKm": 8,
+    "durationMinutes": 20,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "COURT_CIRCLE",
+    "toStopCode": "UNKAL_LAKE",
+    "mode": "CITY_BUS",
+    "distanceKm": 8,
+    "durationMinutes": 20,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "GOKUL_ROAD",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "mode": "CITY_BUS",
+    "distanceKm": 5,
+    "durationMinutes": 15,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "GOKUL_ROAD",
+    "mode": "CITY_BUS",
+    "distanceKm": 5,
+    "durationMinutes": 15,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "GOKUL_ROAD",
+    "toStopCode": "VIDYANAGAR",
+    "mode": "CITY_BUS",
+    "distanceKm": 4,
+    "durationMinutes": 12,
+    "fare": 8,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "GOKUL_ROAD",
+    "mode": "CITY_BUS",
+    "distanceKm": 4,
+    "durationMinutes": 12,
+    "fare": 8,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "GOKUL_ROAD",
+    "toStopCode": "KLE_TECH",
+    "mode": "CITY_BUS",
+    "distanceKm": 5,
+    "durationMinutes": 15,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "GOKUL_ROAD",
+    "mode": "CITY_BUS",
+    "distanceKm": 5,
+    "durationMinutes": 15,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "UNKAL_LAKE",
+    "mode": "CITY_BUS",
+    "distanceKm": 4,
+    "durationMinutes": 12,
+    "fare": 8,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "NAVANAGAR",
+    "mode": "CITY_BUS",
+    "distanceKm": 4,
+    "durationMinutes": 12,
+    "fare": 8,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "HUBBALLI_AIRPORT",
+    "mode": "CITY_BUS",
+    "distanceKm": 4,
+    "durationMinutes": 12,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_AIRPORT",
+    "toStopCode": "NAVANAGAR",
+    "mode": "CITY_BUS",
+    "distanceKm": 4,
+    "durationMinutes": 12,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "COURT_CIRCLE",
+    "toStopCode": "JUBILEE_CIRCLE",
+    "mode": "CITY_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 8,
+    "fare": 5,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "JUBILEE_CIRCLE",
+    "toStopCode": "COURT_CIRCLE",
+    "mode": "CITY_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 8,
+    "fare": 5,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "COURT_CIRCLE",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "mode": "CITY_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 10,
+    "fare": 8,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_NEW_BUS_STAND",
+    "toStopCode": "COURT_CIRCLE",
+    "mode": "CITY_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 10,
+    "fare": 8,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "COURT_CIRCLE",
+    "toStopCode": "SDM_MEDICAL_COLLEGE",
+    "mode": "CITY_BUS",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "SDM_MEDICAL_COLLEGE",
+    "toStopCode": "COURT_CIRCLE",
+    "mode": "CITY_BUS",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "JUBILEE_CIRCLE",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "mode": "CITY_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 8,
+    "fare": 5,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_NEW_BUS_STAND",
+    "toStopCode": "JUBILEE_CIRCLE",
+    "mode": "CITY_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 8,
+    "fare": 5,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "JUBILEE_CIRCLE",
+    "toStopCode": "SDM_MEDICAL_COLLEGE",
+    "mode": "CITY_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 10,
+    "fare": 8,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "SDM_MEDICAL_COLLEGE",
+    "toStopCode": "JUBILEE_CIRCLE",
+    "mode": "CITY_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 10,
+    "fare": 8,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_RAILWAY_STATION",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "mode": "CITY_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 10,
+    "fare": 8,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_NEW_BUS_STAND",
+    "toStopCode": "DHARWAD_RAILWAY_STATION",
+    "mode": "CITY_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 10,
+    "fare": 8,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_RAILWAY_STATION",
+    "toStopCode": "COURT_CIRCLE",
+    "mode": "CITY_BUS",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "COURT_CIRCLE",
+    "toStopCode": "DHARWAD_RAILWAY_STATION",
+    "mode": "CITY_BUS",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_RAILWAY_STATION",
+    "toStopCode": "JUBILEE_CIRCLE",
+    "mode": "CITY_BUS",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "JUBILEE_CIRCLE",
+    "toStopCode": "DHARWAD_RAILWAY_STATION",
+    "mode": "CITY_BUS",
+    "distanceKm": 3,
+    "durationMinutes": 12,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_RAILWAY_STATION",
+    "toStopCode": "SDM_MEDICAL_COLLEGE",
+    "mode": "CITY_BUS",
+    "distanceKm": 4,
+    "durationMinutes": 15,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "SDM_MEDICAL_COLLEGE",
+    "toStopCode": "DHARWAD_RAILWAY_STATION",
+    "mode": "CITY_BUS",
+    "distanceKm": 4,
+    "durationMinutes": 15,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_AIRPORT",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "mode": "CITY_BUS",
+    "distanceKm": 18,
+    "durationMinutes": 40,
+    "fare": 25,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_NEW_BUS_STAND",
+    "toStopCode": "HUBBALLI_AIRPORT",
+    "mode": "CITY_BUS",
+    "distanceKm": 18,
+    "durationMinutes": 40,
+    "fare": 25,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_AIRPORT",
+    "toStopCode": "KLE_TECH",
+    "mode": "CITY_BUS",
+    "distanceKm": 8,
+    "durationMinutes": 20,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "HUBBALLI_AIRPORT",
+    "mode": "CITY_BUS",
+    "distanceKm": 8,
+    "durationMinutes": 20,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_AIRPORT",
+    "toStopCode": "CBT_HUBBALLI",
+    "mode": "CITY_BUS",
+    "distanceKm": 7,
+    "durationMinutes": 18,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "HUBBALLI_AIRPORT",
+    "mode": "CITY_BUS",
+    "distanceKm": 7,
+    "durationMinutes": 18,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "DHARWAD_RAILWAY_STATION",
+    "mode": "TRAIN",
+    "distanceKm": 21,
+    "durationMinutes": 30,
+    "fare": 45,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_RAILWAY_STATION",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "mode": "TRAIN",
+    "distanceKm": 21,
+    "durationMinutes": 30,
+    "fare": 45,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "DHARWAD_RAILWAY_STATION",
+    "mode": "CITY_BUS",
+    "distanceKm": 20,
+    "durationMinutes": 50,
+    "fare": 28,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_RAILWAY_STATION",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "mode": "CITY_BUS",
+    "distanceKm": 20,
+    "durationMinutes": 50,
+    "fare": 28,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "mode": "BRTS",
+    "distanceKm": 18,
+    "durationMinutes": 35,
+    "fare": 30,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_NEW_BUS_STAND",
+    "toStopCode": "CBT_HUBBALLI",
+    "mode": "BRTS",
+    "distanceKm": 18,
+    "durationMinutes": 35,
+    "fare": 30,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_NEW_BUS_STAND",
+    "toStopCode": "JUBILEE_CIRCLE",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "JUBILEE_CIRCLE",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "JUBILEE_CIRCLE",
+    "toStopCode": "COURT_CIRCLE",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "COURT_CIRCLE",
+    "toStopCode": "JUBILEE_CIRCLE",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "COURT_CIRCLE",
+    "toStopCode": "UNKAL_LAKE",
+    "mode": "BRTS",
+    "distanceKm": 9,
+    "durationMinutes": 18,
+    "fare": 25,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "COURT_CIRCLE",
+    "mode": "BRTS",
+    "distanceKm": 9,
+    "durationMinutes": 18,
+    "fare": 25,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "CBT_HUBBALLI",
+    "mode": "BRTS",
+    "distanceKm": 5,
+    "durationMinutes": 10,
+    "fare": 18,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "UNKAL_LAKE",
+    "mode": "BRTS",
+    "distanceKm": 5,
+    "durationMinutes": 10,
+    "fare": 18,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "AMBEDKAR_CIRCLE",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "AMBEDKAR_CIRCLE",
+    "toStopCode": "CBT_HUBBALLI",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "AMBEDKAR_CIRCLE",
+    "toStopCode": "HDMC",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HDMC",
+    "toStopCode": "AMBEDKAR_CIRCLE",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HDMC",
+    "toStopCode": "HOSUR_CROSS",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HOSUR_CROSS",
+    "toStopCode": "HDMC",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HOSUR_CROSS",
+    "toStopCode": "HOSUR_REGIONAL_TERMINAL",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HOSUR_REGIONAL_TERMINAL",
+    "toStopCode": "HOSUR_CROSS",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HOSUR_REGIONAL_TERMINAL",
+    "toStopCode": "KIMS_HOSPITAL",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KIMS_HOSPITAL",
+    "toStopCode": "HOSUR_REGIONAL_TERMINAL",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KIMS_HOSPITAL",
+    "toStopCode": "VIDYANAGAR",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "KIMS_HOSPITAL",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "BVB_CAMPUS",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "BVB_CAMPUS",
+    "toStopCode": "VIDYANAGAR",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "BVB_CAMPUS",
+    "toStopCode": "UNKAL_CROSS",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_CROSS",
+    "toStopCode": "BVB_CAMPUS",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_CROSS",
+    "toStopCode": "UNKAL_VILLAGE",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_VILLAGE",
+    "toStopCode": "UNKAL_CROSS",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_VILLAGE",
+    "toStopCode": "UNKAL_LAKE",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "UNKAL_VILLAGE",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "BIRIDEVARAKOPPA",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "BIRIDEVARAKOPPA",
+    "toStopCode": "UNKAL_LAKE",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "BIRIDEVARAKOPPA",
+    "toStopCode": "SHANTINIKETHAN",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "SHANTINIKETHAN",
+    "toStopCode": "BIRIDEVARAKOPPA",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "SHANTINIKETHAN",
+    "toStopCode": "APMC_3RD_GATE",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "APMC_3RD_GATE",
+    "toStopCode": "SHANTINIKETHAN",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "APMC_3RD_GATE",
+    "toStopCode": "NAVANAGAR",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "APMC_3RD_GATE",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "RTO",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "RTO",
+    "toStopCode": "NAVANAGAR",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "RTO",
+    "toStopCode": "ISKCON_TEMPLE",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "ISKCON_TEMPLE",
+    "toStopCode": "RTO",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "ISKCON_TEMPLE",
+    "toStopCode": "RAYAPUR",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "RAYAPUR",
+    "toStopCode": "ISKCON_TEMPLE",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "RAYAPUR",
+    "toStopCode": "KMF",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KMF",
+    "toStopCode": "RAYAPUR",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KMF",
+    "toStopCode": "NAVLURU_RAILWAY_STATION",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVLURU_RAILWAY_STATION",
+    "toStopCode": "KMF",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVLURU_RAILWAY_STATION",
+    "toStopCode": "SDM_MEDICAL_COLLEGE",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "SDM_MEDICAL_COLLEGE",
+    "toStopCode": "NAVLURU_RAILWAY_STATION",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "SDM_MEDICAL_COLLEGE",
+    "toStopCode": "SATTUR",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "SATTUR",
+    "toStopCode": "SDM_MEDICAL_COLLEGE",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "SATTUR",
+    "toStopCode": "LAKMANAHALLI",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "LAKMANAHALLI",
+    "toStopCode": "SATTUR",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "LAKMANAHALLI",
+    "toStopCode": "GANDHINAGAR_DHARWAD",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "GANDHINAGAR_DHARWAD",
+    "toStopCode": "LAKMANAHALLI",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "GANDHINAGAR_DHARWAD",
+    "toStopCode": "VIDYAGIRI",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIDYAGIRI",
+    "toStopCode": "GANDHINAGAR_DHARWAD",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIDYAGIRI",
+    "toStopCode": "TOLL_NAKA",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "TOLL_NAKA",
+    "toStopCode": "VIDYAGIRI",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "TOLL_NAKA",
+    "toStopCode": "HOSA_YELLAPUR_CROSS",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HOSA_YELLAPUR_CROSS",
+    "toStopCode": "TOLL_NAKA",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HOSA_YELLAPUR_CROSS",
+    "toStopCode": "NTTF",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NTTF",
+    "toStopCode": "HOSA_YELLAPUR_CROSS",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NTTF",
+    "toStopCode": "COURT_CIRCLE",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "COURT_CIRCLE",
+    "toStopCode": "NTTF",
+    "mode": "BRTS",
+    "distanceKm": 0.5,
+    "durationMinutes": 1,
+    "fare": 12,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "SHAKTI_COLONY",
+    "toStopCode": "VIDYANAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "SHAKTI_COLONY",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "KLE_TECH",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "VIDYANAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "UNKAL_LAKE",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "KLE_TECH",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DEVANGPETH",
+    "toStopCode": "VIJAY_NAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIJAY_NAGAR",
+    "toStopCode": "DEVANGPETH",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIJAY_NAGAR",
+    "toStopCode": "HDMC",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HDMC",
+    "toStopCode": "VIJAY_NAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HDMC",
+    "toStopCode": "CBT_HUBBALLI",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "HDMC",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "GOPANKOPPA",
+    "toStopCode": "KENGERI",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KENGERI",
+    "toStopCode": "GOPANKOPPA",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KENGERI",
+    "toStopCode": "KESHAWAPUR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KESHAWAPUR",
+    "toStopCode": "KENGERI",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KESHAWAPUR",
+    "toStopCode": "NAVANAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "KESHAWAPUR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "CBT_HUBBALLI",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "KLE_TECH",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "CBT_HUBBALLI",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "KLE_TECH",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "VIDYANAGAR",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_NEW_BUS_STAND",
+    "toStopCode": "KLE_TECH",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 20,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 20,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "VIDYANAGAR",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "HUBBALLI_AIRPORT",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 25,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_AIRPORT",
+    "toStopCode": "UNKAL_LAKE",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 25,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "GOKUL_ROAD",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "GOKUL_ROAD",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "COURT_CIRCLE",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_NEW_BUS_STAND",
+    "toStopCode": "COURT_CIRCLE",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "JUBILEE_CIRCLE",
+    "toStopCode": "SDM_MEDICAL_COLLEGE",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "SDM_MEDICAL_COLLEGE",
+    "toStopCode": "JUBILEE_CIRCLE",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "UNKAL_LAKE",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "NAVANAGAR",
+    "mode": "SHARED_AUTO",
+    "distanceKm": 3,
+    "durationMinutes": 10,
+    "fare": 15,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "SUTAGATTI",
+    "toStopCode": "NAVANAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "SUTAGATTI",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "DHARWAD_NEW_BUS_STAND",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "DHARWAD_NEW_BUS_STAND",
+    "toStopCode": "NAVANAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "JUBILEE_CIRCLE",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "JUBILEE_CIRCLE",
+    "toStopCode": "NAVANAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "GANDHINAGAR_DHARWAD",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "GANDHINAGAR_DHARWAD",
+    "toStopCode": "NAVANAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "SDM_MEDICAL_COLLEGE",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "SDM_MEDICAL_COLLEGE",
+    "toStopCode": "NAVANAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "CBT_HUBBALLI",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "NAVANAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "HUBBALLI_RAILWAY_STATION",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBBALLI_RAILWAY_STATION",
+    "toStopCode": "CBT_HUBBALLI",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "HDMC",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HDMC",
+    "toStopCode": "NAVANAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HDMC",
+    "toStopCode": "HUBLI_OLD_BUS_STAND",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "HUBLI_OLD_BUS_STAND",
+    "toStopCode": "HDMC",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "KLE_TECH",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "NAVANAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "SHAKTI_COLONY",
+    "toStopCode": "KLE_TECH",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "SHAKTI_COLONY",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIDYANAGAR",
+    "toStopCode": "CBT_HUBBALLI",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "VIDYANAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "VIJAY_NAGAR",
+    "toStopCode": "KIMS_HOSPITAL",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KIMS_HOSPITAL",
+    "toStopCode": "VIJAY_NAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KENGERI",
+    "toStopCode": "NAVANAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "KENGERI",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "NAVANAGAR",
+    "toStopCode": "UNKAL_LAKE",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "UNKAL_LAKE",
+    "toStopCode": "NAVANAGAR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "GOPANKOPPA",
+    "toStopCode": "KESHAWAPUR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KESHAWAPUR",
+    "toStopCode": "GOPANKOPPA",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KESHAWAPUR",
+    "toStopCode": "CBT_HUBBALLI",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "CBT_HUBBALLI",
+    "toStopCode": "KESHAWAPUR",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KENGERI",
+    "toStopCode": "KLE_TECH",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  },
+  {
+    "fromStopCode": "KLE_TECH",
+    "toStopCode": "KENGERI",
+    "mode": "FEEDER_BUS",
+    "distanceKm": 2,
+    "durationMinutes": 6,
+    "fare": 10,
+    "bidirectional": true,
+    "dataConfidence": "HIGH"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "landmarkId": "KLE Technological University",
+    "stopId": "KLE Tech Bus Stop",
+    "walkingDistanceMeters": 400,
+    "walkingDurationMinutes": 5,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "BVB Campus",
+    "stopId": "Vidyanagar Bus Stop",
+    "walkingDistanceMeters": 200,
+    "walkingDurationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "KIMS Hospital",
+    "stopId": "KIMS Hospital Bus Stop",
+    "walkingDistanceMeters": 100,
+    "walkingDurationMinutes": 2,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "Hubballi Railway Station",
+    "stopId": "Railway Station Auto Stand",
+    "walkingDistanceMeters": 300,
+    "walkingDurationMinutes": 4,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "Dharwad Railway Station",
+    "stopId": "Dharwad Station Auto Stand",
+    "walkingDistanceMeters": 400,
+    "walkingDurationMinutes": 5,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "Hubballi Airport",
+    "stopId": "Airport Bus Stop",
+    "walkingDistanceMeters": 500,
+    "walkingDurationMinutes": 7,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "U Mall",
+    "stopId": "U Mall Bus Stop",
+    "walkingDistanceMeters": 300,
+    "walkingDurationMinutes": 4,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "Unkal Lake",
+    "stopId": "Unkal Bus Stand",
+    "walkingDistanceMeters": 150,
+    "walkingDurationMinutes": 2,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "Court Circle",
+    "stopId": "Court Circle Bus Stop",
+    "walkingDistanceMeters": 50,
+    "walkingDurationMinutes": 1,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "Jubilee Circle",
+    "stopId": "Jubilee Circle Bus Stop",
+    "walkingDistanceMeters": 50,
+    "walkingDurationMinutes": 1,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "SDM Medical College",
+    "stopId": "SDM Medical College Bus Stop",
+    "walkingDistanceMeters": 200,
+    "walkingDurationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "Navanagar",
+    "stopId": "Navanagar Bus Stop",
+    "walkingDistanceMeters": 400,
+    "walkingDurationMinutes": 5,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "Vidyanagar",
+    "stopId": "Vidyanagar Bus Stop",
+    "walkingDistanceMeters": 200,
+    "walkingDurationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "Gokul Road",
+    "stopId": "Gokul Road Bus Stop",
+    "walkingDistanceMeters": 100,
+    "walkingDurationMinutes": 2,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "APMC Market",
+    "stopId": "APMC 3rd Gate Bus Stop",
+    "walkingDistanceMeters": 300,
+    "walkingDurationMinutes": 4,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "CBT Hubballi",
+    "stopId": "CBT Hubballi",
+    "walkingDistanceMeters": 50,
+    "walkingDurationMinutes": 1,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "PC Jabin College",
+    "stopId": "PC Jabin Bus Stop",
+    "walkingDistanceMeters": 300,
+    "walkingDurationMinutes": 4,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "Chandramouleshwara Temple",
+    "stopId": "Unkal Temple Bus Stop",
+    "walkingDistanceMeters": 500,
+    "walkingDurationMinutes": 7,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "Nrupatunga Betta",
+    "stopId": "Nrupatunga Bus Stop",
+    "walkingDistanceMeters": 800,
+    "walkingDurationMinutes": 10,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "Indira Gandhi Glass House",
+    "stopId": "Glass House Bus Stop",
+    "walkingDistanceMeters": 600,
+    "walkingDurationMinutes": 8,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "Deshpande Nagar",
+    "stopId": "Deshpande Nagar Bus Stop",
+    "walkingDistanceMeters": 500,
+    "walkingDurationMinutes": 7,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "Kuvempu Nagar",
+    "stopId": "Kuvempu Nagar Bus Stop",
+    "walkingDistanceMeters": 600,
+    "walkingDurationMinutes": 8,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "RD Street Market",
+    "stopId": "RD Street Bus Stop",
+    "walkingDistanceMeters": 300,
+    "walkingDurationMinutes": 4,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "Camp Area",
+    "stopId": "Camp Area Bus Stop",
+    "walkingDistanceMeters": 400,
+    "walkingDurationMinutes": 5,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  },
+  {
+    "landmarkId": "Vasan Eye Care Hospital",
+    "stopId": "Vasan Eye Care Bus Stop",
+    "walkingDistanceMeters": 200,
+    "walkingDurationMinutes": 3,
+    "verificationLevel": "HIGH_CONFIDENCE"
+  }
+]

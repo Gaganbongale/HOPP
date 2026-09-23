@@ -1,0 +1,137 @@
+.preference-picker {
+  position: relative;
+  display: inline-flex;
+  z-index: 8;
+}
+
+.preference-trigger {
+  min-height: 34px;
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  padding: 0 10px;
+  color: #2d563f;
+  background: #f1f5eb;
+  border: 1px solid #e5ecdc;
+  border-radius: 7px;
+  font-size: 11px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 150ms ease, border-color 150ms ease, box-shadow 150ms ease;
+}
+
+.preference-trigger:hover,
+.preference-trigger.open {
+  background: #eaf1df;
+  border-color: #b9cba6;
+  box-shadow: 0 2px 7px rgba(40, 78, 53, 0.08);
+}
+
+.preference-trigger svg {
+  color: #66815d;
+  transition: transform 150ms ease;
+}
+
+.preference-trigger.open svg {
+  transform: rotate(180deg);
+}
+
+.preference-menu {
+  position: absolute;
+  left: 0;
+  bottom: calc(100% + 9px);
+  width: 256px;
+  padding: 7px;
+  background: #fff;
+  border: 1px solid #e5eae0;
+  border-radius: 11px;
+  box-shadow: 0 14px 36px rgba(28, 47, 35, 0.16), 0 3px 8px rgba(28, 47, 35, 0.06);
+  animation: preference-menu-in 140ms ease-out;
+}
+
+.preference-menu-heading {
+  display: block;
+  padding: 8px 9px 7px;
+  color: #8a9589;
+  font-size: 8px;
+  font-weight: 700;
+  letter-spacing: 1.05px;
+}
+
+.preference-option {
+  width: 100%;
+  min-height: 49px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 7px 9px;
+  border: 0;
+  border-radius: 7px;
+  background: transparent;
+  color: #34453a;
+  text-align: left;
+  cursor: pointer;
+  transition: background 130ms ease, color 130ms ease;
+}
+
+.preference-option:hover {
+  background: #f5f7f2;
+}
+
+.preference-option.selected {
+  color: #28573e;
+  background: #eff4e9;
+}
+
+.preference-option-copy {
+  display: grid;
+  gap: 3px;
+}
+
+.preference-option-copy strong {
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.preference-option-copy small {
+  color: #889188;
+  font-size: 9px;
+  font-weight: 400;
+}
+
+.preference-option.selected .preference-option-copy small {
+  color: #72856d;
+}
+
+.preference-check {
+  width: 21px;
+  height: 21px;
+  flex: none;
+  display: grid;
+  place-items: center;
+  color: #4d794b;
+}
+
+@keyframes preference-menu-in {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 680px) {
+  .preference-menu {
+    width: min(256px, calc(100vw - 48px));
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .preference-trigger,
+  .preference-trigger svg,
+  .preference-option {
+    transition: none;
+  }
+
+  .preference-menu {
+    animation: none;
+  }
+}

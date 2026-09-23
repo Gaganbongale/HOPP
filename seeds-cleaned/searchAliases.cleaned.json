@@ -1,0 +1,537 @@
+[
+  {
+    "alias": "KLE",
+    "stopName": "KLE Technological University",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "KLE Tech",
+    "stopName": "KLE Technological University",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "KLE University",
+    "stopName": "KLE Technological University",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "BVB",
+    "stopName": "KLE Technological University",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "BVB Campus",
+    "stopName": "KLE Technological University",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "BVBCET",
+    "stopName": "KLE Technological University",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "KIMS",
+    "stopName": "KIMS Hospital Vidyanagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "KIMS Hospital",
+    "stopName": "KIMS Hospital Vidyanagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "KIMS Hubli",
+    "stopName": "KIMS Hospital Vidyanagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Hubli Railway Station",
+    "stopName": "Hubballi Railway Station",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Hubli Station",
+    "stopName": "Hubballi Railway Station",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "SSS Hubballi Jn",
+    "stopName": "Hubballi Railway Station",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Hubballi Jn",
+    "stopName": "Hubballi Railway Station",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Dharwad Railway Station",
+    "stopName": "Dharwad Railway Station",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Dharwad Station",
+    "stopName": "Dharwad Railway Station",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "DWR Station",
+    "stopName": "Dharwad Railway Station",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Hubli Airport",
+    "stopName": "Hubballi Airport",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Hubballi Airport Terminal",
+    "stopName": "Hubballi Airport",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "HBX",
+    "stopName": "Hubballi Airport",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "HBX Airport",
+    "stopName": "Hubballi Airport",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "CBT",
+    "stopName": "CBT Hubballi",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "CBT Hubli",
+    "stopName": "CBT Hubballi",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Hubli CBT",
+    "stopName": "CBT Hubballi",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Central Bus Terminal",
+    "stopName": "CBT Hubballi",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Dharwad Bus Stand",
+    "stopName": "Dharwad BRTS Terminal",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Dharwad New Bus Stand",
+    "stopName": "Dharwad BRTS Terminal",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Dharwad CBT",
+    "stopName": "Dharwad BRTS Terminal",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "U Mall",
+    "stopName": "U Mall Hubli",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Unkal",
+    "stopName": "Unkal Lake",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Unkal Lake Park",
+    "stopName": "Unkal Lake",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Court Circle",
+    "stopName": "Court Circle (Dharwad)",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Jubilee Circle",
+    "stopName": "Jubilee Circle (Dharwad)",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "SDM",
+    "stopName": "SDM Medical College Dharwad",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "SDM College",
+    "stopName": "SDM Medical College Dharwad",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "SDM Hospital",
+    "stopName": "SDM Medical College Dharwad",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "SDM Medical College",
+    "stopName": "SDM Medical College Dharwad",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Navanagar",
+    "stopName": "Navanagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Navanagara",
+    "stopName": "Navanagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Gokul Road",
+    "stopName": "Gokul Road",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "APMC",
+    "stopName": "APMC Market Hubli",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "APMC Market",
+    "stopName": "APMC Market Hubli",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "PC Jabin",
+    "stopName": "PC Jabin College Vidyanagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "PC Jabin College",
+    "stopName": "PC Jabin College Vidyanagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Chandramauleshwara Temple",
+    "stopName": "Chandramauleshwara Temple Unkal",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Nrupatunga Betta",
+    "stopName": "Nrupatunga Betta (Hill)",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Nrupatunga Hill",
+    "stopName": "Nrupatunga Betta (Hill)",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Glass House",
+    "stopName": "Indira Gandhi Glass House",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Indira Gandhi Glass House",
+    "stopName": "Indira Gandhi Glass House",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Kuvempu Nagar",
+    "stopName": "Kuvempu Nagar Dharwad",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Deshpande Nagar",
+    "stopName": "Deshpande Nagar Hubli",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Station Road",
+    "stopName": "Station Road Hubli",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "RD Street",
+    "stopName": "RD Street Dharwad",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Camp Area",
+    "stopName": "Camp Area Dharwad",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Shakti Colony",
+    "stopName": "Shakti Colony",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Devangpeth",
+    "stopName": "Devangpeth",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Vijay Nagar",
+    "stopName": "Vijay Nagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Gopankoppa",
+    "stopName": "Gopankoppa",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Kengeri",
+    "stopName": "Kengeri",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Keshawapur",
+    "stopName": "Keshawapur",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Deen Bandhu Colony",
+    "stopName": "Deen Bandhu Colony",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Bendigeri",
+    "stopName": "Bendigeri",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "K.R. Nagar",
+    "stopName": "K.R. Nagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "KHB Colony",
+    "stopName": "KHB Colony",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Ashok Nagar",
+    "stopName": "Ashok Nagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Bhavaninagar",
+    "stopName": "Bhavaninagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Railway Colony",
+    "stopName": "Railway Colony",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Gandhinagar Hubli",
+    "stopName": "Gandhinagar Hubli",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Sadinanda Nagar",
+    "stopName": "Sadinanda Nagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Raghavendra Nagar",
+    "stopName": "Raghavendra Nagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Rameshwar Nagar",
+    "stopName": "Rameshwar Nagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Sri Krishna Nagar",
+    "stopName": "Sri Krishna Nagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Ramakrishna Nagar",
+    "stopName": "Ramakrishna Nagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Ambedkar Circle",
+    "stopName": "Dr B R Ambedkar Circle",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "HDMC Office",
+    "stopName": "HDMC",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Hosur Regional Terminal",
+    "stopName": "Hosur Regional Terminal",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Biridevarakoppa BRTS",
+    "stopName": "Biridevarakoppa",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Shantinikethan BRTS",
+    "stopName": "Shantinikethan",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Navluru Railway Station BRTS",
+    "stopName": "Navluru Railway Station",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Sattur BRTS",
+    "stopName": "Sattur",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Lakmanahalli BRTS",
+    "stopName": "Lakmanahalli",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Gandhinagar BRTS",
+    "stopName": "Gandhinagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Vidyagiri BRTS",
+    "stopName": "Vidyagiri",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Toll Naka BRTS",
+    "stopName": "Toll Naka",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "NTTF BRTS",
+    "stopName": "NTTF",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Airport Terminal",
+    "stopName": "Hubballi Airport",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Railway Terminal",
+    "stopName": "Hubballi Railway Station",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Gokul Bus Stand",
+    "stopName": "Gokul Road",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "PC Jabin Bus Stop",
+    "stopName": "PC Jabin College Vidyanagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "BVB Bus Stop",
+    "stopName": "KLE Technological University",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Vidyanagar Bus Stop",
+    "stopName": "Vidyanagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Gokul Road Bus Stop",
+    "stopName": "Gokul Road",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Unkal Bus Stop",
+    "stopName": "Unkal Lake",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Court Circle Bus Stop",
+    "stopName": "Court Circle (Dharwad)",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Jubilee Circle Bus Stop",
+    "stopName": "Jubilee Circle (Dharwad)",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "SDM Bus Stop",
+    "stopName": "SDM Medical College Dharwad",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Navanagar Bus Stop",
+    "stopName": "Navanagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "KIMS Bus Stop",
+    "stopName": "KIMS Hospital Vidyanagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "APMC Bus Stop",
+    "stopName": "APMC Market Hubli",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Hosur Cross Bus Stop",
+    "stopName": "Hosur Cross",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Hubli Rly Station",
+    "stopName": "Hubballi Railway Station",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Dharwad Rly Station",
+    "stopName": "Dharwad Railway Station",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Old Bus Stand Dharwad",
+    "stopName": "Court Circle (Dharwad)",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "New Bus Stand Dharwad",
+    "stopName": "Dharwad BRTS Terminal",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Hospital KIMS",
+    "stopName": "KIMS Hospital Vidyanagar",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "KLE campus",
+    "stopName": "KLE Technological University",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "BVB campus hubli",
+    "stopName": "KLE Technological University",
+    "verificationLevel": "LOCAL_VERIFIED"
+  },
+  {
+    "alias": "Unkal lake park hubli",
+    "stopName": "Unkal Lake",
+    "verificationLevel": "LOCAL_VERIFIED"
+  }
+]
