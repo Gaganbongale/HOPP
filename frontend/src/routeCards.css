@@ -9,6 +9,11 @@
   --route-edge: #d9a36f;
 }
 
+.route-icon.fastest {
+  background: #fff0e2;
+  color: #c97836;
+}
+
 .route-card.cheapest {
   --route-glow: 91, 139, 76;
   --route-edge: #a8c88f;

@@ -15,14 +15,19 @@ process.on('uncaughtException', (err) => {
   process.exit(1);
 });
 
-// Connect to Database
-connectDB();
-
 const PORT = process.env.PORT || 5000;
 
-const server = app.listen(PORT, () => {
-  logger.info(`Server running in ${process.env.NODE_ENV || 'development'} mode on port ${PORT}`);
-});
+let server;
+connectDB()
+  .then(() => {
+    server = app.listen(PORT, () => {
+      logger.info(`Server running in ${process.env.NODE_ENV || 'development'} mode on port ${PORT}`);
+    });
+  })
+  .catch((err) => {
+    logger.error(`Server startup aborted: ${err.message}`);
+    process.exit(1);
+  });
 
 // Handle unhandled promise rejections
 process.on('unhandledRejection', (err) => {

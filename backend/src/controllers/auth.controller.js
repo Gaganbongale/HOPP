@@ -2,6 +2,18 @@ const authService = require('../services/auth.service');
 const { sendSuccess } = require('../utils/responseFormatter');
 
 class AuthController {
+  async config(req, res, next) {
+    try { return res.status(200).json(sendSuccess(await authService.getPublicAuthConfig(), 'Authentication config retrieved')); }
+    catch (error) { next(error); }
+  }
+
+  async google(req, res, next) {
+    try {
+      if (!req.body.credential) { const error = new Error('Google credential is required'); error.statusCode = 400; throw error; }
+      return res.status(200).json(sendSuccess(await authService.googleLogin(req.body.credential), 'Google sign-in successful'));
+    } catch (error) { next(error); }
+  }
+
   async register(req, res, next) {
     try {
       const { name, email, password } = req.body;

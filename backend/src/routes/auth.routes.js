@@ -6,6 +6,8 @@ const { registerValidator, loginValidator } = require('../validators/auth.valida
 const validate = require('../middlewares/validation.middleware');
 
 // Public routes
+router.get('/config', authController.config);
+router.post('/google', authController.google);
 router.post('/register', registerValidator, validate, authController.register);
 router.post('/login', loginValidator, validate, authController.login);
 router.post('/logout', authController.logout);

@@ -3,11 +3,7 @@ const logger = require('../utils/logger');
 const buildIndexes = require('./indexes');
 
 const connectDB = async () => {
-  const connUri = process.env.MONGODB_URI;
-  if (!connUri) {
-    logger.error('MONGODB_URI is not set in environment variables.');
-    process.exit(1);
-  }
+  const connUri = process.env.MONGODB_URI || 'mongodb://localhost:27017/hubli_dharwad_transit';
 
   // Ensure listeners are registered only once
   if (mongoose.connection.listeners('connected').length === 0) {
@@ -37,8 +33,8 @@ const connectDB = async () => {
       logger.error(`Database connection failed: ${err.message}`);
       retries -= 1;
       if (retries === 0) {
-        logger.error('All database connection retries exhausted. Graceful shutdown.');
-        process.exit(1);
+        logger.error('All database connection retries exhausted.');
+        throw err;
       }
       logger.info('Waiting 5 seconds before retrying...');
       await new Promise((resolve) => setTimeout(resolve, 5000));

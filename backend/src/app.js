@@ -13,6 +13,7 @@ const routeRoutes = require('./routes/route.routes');
 const locationRoutes = require('./routes/location.routes');
 const historyRoutes = require('./routes/history.routes');
 const savedRouteRoutes = require('./routes/savedRoute.routes');
+const ticketRoutes = require('./routes/ticket.routes');
 
 const app = express();
 
@@ -62,6 +63,7 @@ app.use((req, res, next) => {
 app.use('/api/auth', authRoutes); // /api/auth/register, /api/auth/login, etc.
 app.use('/api', routeRoutes);     // /api/routes/search, /api/routes/compare, /api/admin/routes, etc.
 app.use('/api', locationRoutes);  // /api/locations, /api/admin/locations
+app.use('/api', ticketRoutes);    // /api/tickets payment and validation
 app.use('/api', historyRoutes);   // /api/history, /api/history/:id
 app.use('/api', savedRouteRoutes); // /api/saved-routes, /api/saved-routes/:id
 

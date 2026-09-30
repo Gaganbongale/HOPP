@@ -1,5 +1,6 @@
 const routeService = require('../services/route.service');
 const { sendSuccess } = require('../utils/responseFormatter');
+const brtsRoutes = require('../../../seeds-cleaned/routes.cleaned.json');
 
 class RouteController {
   // OpenAPI Compliant Controllers
@@ -37,6 +38,13 @@ class RouteController {
     } catch (error) {
       next(error);
     }
+  }
+
+  async getBrtsRoutes(req, res, next) {
+    try {
+      const routes = brtsRoutes.filter((route) => route.transportType === 'BRTS').map(({ _id, routeNumber, source, destination, stops, verificationLevel }) => ({ id: _id, routeNumber, source, destination, stops, stopCount: stops.length, verificationLevel }));
+      return res.status(200).json(sendSuccess(routes, 'BRTS routes retrieved successfully'));
+    } catch (error) { next(error); }
   }
 
   async getNetworkNodes(req, res, next) {

@@ -22,10 +22,12 @@ const userSchema = new mongoose.Schema(
     },
     password: {
       type: String,
-      required: [true, 'Please provide a password'],
+      required: function () { return this.authProvider === 'local'; },
       minlength: [6, 'Password must be at least 6 characters long'],
       select: false, // Don't return password in query responses by default
     },
+    googleId: { type: String, sparse: true, unique: true, index: true },
+    authProvider: { type: String, enum: ['local', 'google'], default: 'local' },
     role: {
       type: String,
       enum: ['user', 'admin'],
@@ -51,16 +53,17 @@ const userSchema = new mongoose.Schema(
 
 // Hash password before saving
 userSchema.pre('save', async function (next) {
-  if (!this.isModified('password')) {
-    next();
-  }
-  const salt = await bcrypt.genSalt(10);
-  this.password = await bcrypt.hash(this.password, salt);
-  next();
+  if (!this.isModified('password') || !this.password) return next();
+  try {
+    const salt = await bcrypt.genSalt(10);
+    this.password = await bcrypt.hash(this.password, salt);
+    return next();
+  } catch (error) { return next(error); }
 });
 
 // Compare password
 userSchema.methods.comparePassword = async function (enteredPassword) {
+  if (!this.password) return false;
   return await bcrypt.compare(enteredPassword, this.password);
 };
 

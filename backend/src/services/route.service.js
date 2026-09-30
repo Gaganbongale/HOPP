@@ -24,14 +24,33 @@ class RouteService {
 
   // Resolves stop by name, alias, or nearest landmark
   async resolveStopByNameOrAlias(name) {
-    const cleanName = name.trim();
+    const displayName = name.trim();
+    const normalizedInput = displayName.toLowerCase().replace(/[^a-z0-9]/g, '');
+    // Connect names from the cleaned BRTS directory to the same physical
+    // nodes used in the routing graph and generated database seed data.
+    const routeDirectoryAliases = {
+      hubballicentralbusterminal: 'HDMC',
+      dharwadbrtsterminal: 'Dharwad New Bus Stand',
+      navanagara: 'Navanagar',
+    };
+    const cleanName = routeDirectoryAliases[normalizedInput] || displayName;
+    // Frontend/verified stop data sometimes omits punctuation ("Dr B R" vs
+    // "Dr. B.R."). Build a literal, punctuation-tolerant pattern so these
+    // names still resolve to the same graph node without treating user text
+    // as executable regular-expression syntax.
+    const normalizedPattern = cleanName
+      .split(/[^a-z0-9]+/i)
+      .filter(Boolean)
+      .map((part) => part.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
+      .join('[^a-z0-9]*');
+    const exactNamePattern = new RegExp(`^${normalizedPattern}$`, 'i');
     
     // 1. Direct active stop search by name or alias (exact case-insensitive)
     let stop = await TransportStop.findOne({
       active: true,
       $or: [
-        { name: { $regex: new RegExp('^' + cleanName + '$', 'i') } },
-        { aliases: { $regex: new RegExp('^' + cleanName + '$', 'i') } }
+        { name: { $regex: exactNamePattern } },
+        { aliases: { $regex: exactNamePattern } }
       ]
     });
 
@@ -40,8 +59,8 @@ class RouteService {
       stop = await TransportStop.findOne({
         active: true,
         $or: [
-          { name: { $regex: new RegExp(cleanName, 'i') } },
-          { aliases: { $regex: new RegExp(cleanName, 'i') } }
+          { name: { $regex: new RegExp(normalizedPattern, 'i') } },
+          { aliases: { $regex: new RegExp(normalizedPattern, 'i') } }
         ]
       });
     }
@@ -344,11 +363,6 @@ class RouteService {
     const fastestSegments = allSegments.filter(s => 
       ['SHARED_AUTO', 'CITY_BUS', 'FEEDER_BUS', 'BRTS', 'TRAIN', 'WALK'].includes(s.mode)
     );
-    // Filter segments for Comfortable Option (Cab, Personal Auto, Walk)
-    const comfortableSegments = allSegments.filter(s => 
-      ['CAB', 'AUTO_RICKSHAW', 'WALK'].includes(s.mode)
-    );
-
     // Find paths
     const pathCheapest = this.findShortestPath(
       sourceStop._id.toString(), 
@@ -362,13 +376,6 @@ class RouteService {
       fastestSegments, 
       (s) => s.durationMinutes
     );
-    const pathComfortable = this.findShortestPath(
-      sourceStop._id.toString(), 
-      destStop._id.toString(), 
-      comfortableSegments, 
-      (s) => s.durationMinutes
-    );
-
     const options = [];
 
     // Formulate option formatter
@@ -433,54 +440,42 @@ class RouteService {
     const optFastest = createOption(pathFastest, 'opt_fastest', 'Fastest Connection', 'fastest', 95, 'moderate', 'Time-critical commuters');
     const optCheapest = createOption(pathCheapest, 'opt_cheapest', 'Eco Saver Option', 'cheapest', 88, 'high', 'Students & budget travelers');
 
-    // Generate Comfortable Option (Dijkstra if CAB segments exist, otherwise dynamic Haversine fallback)
-    let optComfortable = null;
-    if (pathComfortable && pathComfortable.length > 0) {
-      optComfortable = createOption(pathComfortable, 'opt_comfortable', 'Comfortable Option', 'comfortable', 98, 'none', 'Premium & business travelers');
-    }
-
-    if (!optComfortable) {
-      if (sourceStop.location?.coordinates && destStop.location?.coordinates) {
-        const dist = this.getHaversineDistanceKm(sourceStop.location.coordinates, destStop.location.coordinates);
-        
-        const cabFare = Math.max(50, Math.round(50 + dist * 15));
-        const cabDuration = Math.max(5, Math.round((dist / 50) * 60));
-
-        const autoFare = Math.max(30, Math.round(30 + dist * 10));
-        const autoDuration = Math.max(5, Math.round((dist / 40) * 60));
-
-        const rapidoFare = Math.max(15, Math.round(15 + dist * 6));
-        const rapidoDuration = Math.max(5, Math.round((dist / 45) * 60));
-
-        const comfortLeg = {
-          type: 'bus',
-          mode: 'CAB',
-          bus_number: null,
-          description: `Cab (₹${cabFare} / ${cabDuration} mins), Personal Auto (₹${autoFare} / ${autoDuration} mins), or Rapido (₹${rapidoFare} / ${rapidoDuration} mins)`,
-          stop_from: sourceStop.name,
-          stop_to: destStop.name,
-          duration_min: cabDuration,
-          distance_meters: Math.round(dist * 1000),
-          stops_count: 0,
-          intermediate_stops: []
-        };
-
-        optComfortable = {
-          id: 'opt_comfortable',
-          label: 'Comfortable Option',
-          tag: 'comfortable',
-          duration_min: cabDuration,
-          duration_range: `${Math.max(1, cabDuration - 2)}-${cabDuration + 3} mins`,
-          fare_inr: cabFare,
-          transfers: 0,
-          transfer_label: 'Direct Private Ride',
-          confidence: 98,
-          recommended_for: 'Premium & business travelers',
-          legs: [comfortLeg],
-          crowding: 'none'
-        };
-      }
-    }
+    // Private ride provider APIs are not connected. Always return clearly
+    // labeled fare estimates; use actual coordinates when present, otherwise
+    // derive distance from the transit path so stations without coordinates
+    // still get a comfortable ride option.
+    const routeDistanceKm = (pathFastest || pathCheapest || []).reduce((sum, segment) => sum + (segment.distanceKm || 0), 0);
+    const hasCoordinates = sourceStop.location?.coordinates?.length === 2 && destStop.location?.coordinates?.length === 2;
+    const directDistanceKm = hasCoordinates ? this.getHaversineDistanceKm(sourceStop.location.coordinates, destStop.location.coordinates) : 0;
+    const dist = Math.max(0.5, directDistanceKm || routeDistanceKm || Math.abs((sourceStop.corridorDistanceKm ?? 0) - (destStop.corridorDistanceKm ?? 0)) || 5);
+    const providerEstimates = [
+      { provider: 'Uber', fare_inr: Math.max(50, Math.round(50 + dist * 15)), duration_min: Math.max(5, Math.round((dist / 50) * 60)), ride_type: 'Car' },
+      { provider: 'Rapido', fare_inr: Math.max(15, Math.round(15 + dist * 6)), duration_min: Math.max(5, Math.round((dist / 45) * 60)), ride_type: 'Bike' },
+      { provider: 'Local auto', fare_inr: Math.max(30, Math.round(30 + dist * 10)), duration_min: Math.max(5, Math.round((dist / 40) * 60)), ride_type: 'Auto' },
+    ];
+    const uberEstimate = providerEstimates[0];
+    const optComfortable = {
+      id: 'opt_comfortable',
+      label: 'Uber & Rapido estimates',
+      tag: 'comfortable',
+      duration_min: uberEstimate.duration_min,
+      duration_range: `${Math.max(1, uberEstimate.duration_min - 2)}-${uberEstimate.duration_min + 3} mins`,
+      fare_inr: uberEstimate.fare_inr,
+      transfers: 0,
+      transfer_label: 'Direct ride',
+      confidence: 70,
+      recommended_for: 'Compare estimated private ride fares',
+      provider_estimates: providerEstimates,
+      fare_note: 'Estimates only; live provider prices and availability are not connected.',
+      legs: [{
+        type: 'bus', mode: 'CAB', bus_number: null,
+        description: `Estimated direct ride from ${sourceStop.name} to ${destStop.name}`,
+        stop_from: sourceStop.name, stop_to: destStop.name,
+        duration_min: uberEstimate.duration_min, distance_meters: Math.round(dist * 1000),
+        stops_count: 0, intermediate_stops: []
+      }],
+      crowding: 'none'
+    };
 
     if (optFastest) options.push(optFastest);
     if (optCheapest) options.push(optCheapest);

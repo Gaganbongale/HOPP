@@ -138,3 +138,8 @@ const distance = R * c; // Great-circle distance between two GPS coordinates
 The system calculates a custom weight score to determinecheapest, fastest, and balanced routes:
 $$\text{Score} = (W_{\text{fare}} \times \text{Fare}) + (W_{\text{time}} \times \text{Time})$$
 The route optimizer selects the transport option with the *lowest score* as the balanced option.
+# Ticket checkout setup
+
+The BRTS ticket checkout uses Razorpay Standard Checkout. Copy `.env.example` to `.env` and set `RAZORPAY_KEY_ID`, `RAZORPAY_KEY_SECRET`, `TICKET_BASE_FARE_RUPEES`, and `TICKET_FARE_PER_KM_RUPEES` before starting the API. The calculated fare is the base fare plus corridor distance multiplied by the per-kilometre rate. Use Razorpay test keys while testing; switch to live keys only for a production deployment. Checkout stays unavailable until all values are configured.
+
+The backend creates each Razorpay order, verifies its signature and order notes, confirms the payment, and only then issues a unique ticket QR. Ticket records are stored in MongoDB. Scanning the ticket QR opens `GET /api/tickets/:ticketId`, which returns the ticket's validity and journey details. The optional “Pay by UPI QR” flow creates a Razorpay single-use QR and checks payment status; the Razorpay account must have QR Codes API access enabled.

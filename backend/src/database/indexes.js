@@ -16,7 +16,7 @@ const buildIndexes = async () => {
     // Stops: code (stopId), name, location
     await TransportStop.collection.createIndex({ code: 1 }, { unique: true });
     await TransportStop.collection.createIndex({ name: 1 });
-    await TransportStop.collection.createIndex({ location: '2dsphere' });
+    await TransportStop.collection.createIndex({ location: '2dsphere' }, { sparse: true });
 
     // Routes: routeNumber (routeId), operator
     await TransitRoute.collection.createIndex({ routeNumber: 1 });

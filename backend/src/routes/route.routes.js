@@ -22,6 +22,7 @@ router.post('/routes/plan', routeController.planRoutes);
 
 // Get popular routes
 router.get('/routes/popular', routeController.getPopularRoutes);
+router.get('/routes/brts', routeController.getBrtsRoutes);
 
 // Network statistics
 router.get('/network/stats', routeController.getNetworkStats);
