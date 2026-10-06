@@ -1,4 +1,5 @@
 const express = require('express');
+const path = require('path');
 const cors = require('cors');
 const helmet = require('helmet');
 const mongoSanitize = require('express-mongo-sanitize');
@@ -16,18 +17,32 @@ const savedRouteRoutes = require('./routes/savedRoute.routes');
 const ticketRoutes = require('./routes/ticket.routes');
 
 const app = express();
+const frontendDist = path.resolve(__dirname, '../public');
+app.set('trust proxy', 1);
 
 // 1. Security Middlewares
-// Set security HTTP headers
-app.use(helmet());
+// Permit the third-party checkout and Google Identity scripts used by the UI.
+const defaultCsp = helmet.contentSecurityPolicy.getDefaultDirectives();
+app.use(helmet({
+  contentSecurityPolicy: {
+    directives: {
+      ...defaultCsp,
+      'script-src': [...defaultCsp['script-src'], 'https://accounts.google.com/gsi/client', 'https://checkout.razorpay.com'],
+      'frame-src': [...(defaultCsp['frame-src'] || ["'self'"]), 'https://accounts.google.com/gsi/', 'https://checkout.razorpay.com', 'https://api.razorpay.com'],
+      'connect-src': [...(defaultCsp['connect-src'] || ["'self'"]), 'https://accounts.google.com/gsi/', 'https://checkout.razorpay.com', 'https://api.razorpay.com'],
+    },
+  },
+}));
 
 // Enable CORS
-app.use(
-  cors({
-    origin: process.env.CORS_ORIGIN || '*',
-    credentials: true,
-  })
-);
+const allowedOrigins = (process.env.CORS_ORIGIN || '').split(',').map((origin) => origin.trim()).filter(Boolean);
+app.use(cors({
+  origin: (origin, callback) => {
+    if (origin && (allowedOrigins.includes('*') || allowedOrigins.includes(origin))) return callback(null, true);
+    return callback(null, false);
+  },
+  credentials: true,
+}));
 
 // Rate Limiting (100 requests per 15 minutes)
 const limiter = rateLimit({
@@ -59,6 +74,9 @@ app.use((req, res, next) => {
   next();
 });
 
+// The production container serves the built frontend and API from one origin.
+app.use(express.static(frontendDist));
+
 // 3. API Routes Mounting
 app.use('/api/auth', authRoutes); // /api/auth/register, /api/auth/login, etc.
 app.use('/api', routeRoutes);     // /api/routes/search, /api/routes/compare, /api/admin/routes, etc.
@@ -74,6 +92,12 @@ app.get('/health', (req, res) => {
     message: 'Hubli-Dharwad Transit Planner API is online and healthy',
     timestamp: new Date(),
   });
+});
+
+// Let the browser app handle client-side routes while keeping API 404s intact.
+app.get('*', (req, res, next) => {
+  if (req.path === '/health' || req.path === '/api' || req.path.startsWith('/api/')) return next();
+  return res.sendFile(path.join(frontendDist, 'index.html'), (error) => error && next(error));
 });
 
 // Catch-all for undefined routes

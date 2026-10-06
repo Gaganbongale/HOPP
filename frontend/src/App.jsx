@@ -5,7 +5,7 @@ import './plannerControls.css';
 import QRCode from 'qrcode';
 import brtsStationData from '../../seeds-cleaned/brtsStations.cleaned.json';
 
-const API = (import.meta.env.VITE_API_URL || 'http://localhost:5000/api').replace(/\/$/, '');
+const API = (import.meta.env.VITE_API_URL || '/api').replace(/\/$/, '');
 const brtsStations = brtsStationData.filter((station) => station.status === 'ACTIVE').map((station) => station.name);
 const sampleStops = [...new Set([...brtsStations, 'Hubballi Railway Station', 'Dharwad Railway Station', 'Dharwad New Bus Stand', 'KLE Technological University', 'BVB Campus', 'KIMS Hospital Vidyanagar', 'SDM Medical College Dharwad', 'Hubballi Airport', 'U Mall Hubli', 'Gokul Road'])];
 const modes = { BRTS: 'Chigari BRTS', CITY_BUS: 'City bus', FEEDER_BUS: 'Feeder bus', TRAIN: 'Train', WALK: 'Walk', SHARED_AUTO: 'Shared auto', AUTO_RICKSHAW: 'Auto rickshaw', CAB: 'Cab' };
